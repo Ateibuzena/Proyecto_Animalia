@@ -1,0 +1,378 @@
+name,locations,taxonomy_kingdom,taxonomy_phylum,taxonomy_class,taxonomy_order,characteristics_diet
+African Bullfrog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Clawed Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Tree Toad,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+American Toad,['North-America'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Axolotl,['Central-America'],Animalia,Chordata,Amphibia,Caudata,Carnivore
+Caecilian,"['Africa', 'Asia', 'Central-America', 'South-America']",Animalia,Chordata,Amphibia,Gymnophiona,Carnivore
+Common Toad,['Europe'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Congo Snake,"['Central-America', 'North-America']",Animalia,Chordata,Amphibia,Urodela,Carnivore
+Darwin’s Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Desert Rain Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Fire salamander,['Europe'],Animalia,Chordata,Amphibia,Urodela,Carnivore
+Fire-Bellied Toad,"['Asia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Giant Salamander,"['Asia', 'North-America']",Animalia,Chordata,Amphibia,Urodela,Omnivore
+Glass Frog,['Central-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Goliath Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Gray Tree Frog,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Leopard Frog,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Mantella Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Marine Toad,"['Central-America', 'Oceania', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Marsh Frog,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Monte Iberia Eleuth,['Central-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Natterjack,"['Eurasia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Oak Toad,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Poison Dart Frog,"['Central-America', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Salamander,"['Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Amphibia,Caudata,Carnivore
+Spadefoot Toad,"['Europe', 'North-America']",Animalia,Chordata,Amphibia,Mesobatrachia,Omnivore
+Tiger Salamander,"['North-America', 'Ocean']",Animalia,Chordata,Amphibia,Caudata,Carnivore
+Wyoming Toad,['Extinct in the Wild'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Bullfrog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Bullfrog,"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Burrowing Frog,['Oceania'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Edible Frog,['Europe'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Fire-Bellied Toad,"['Asia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Hellbender,['North-America'],Animalia,Chordata,Amphibia,Urodela,Carnivore
+Monte Iberia Eleuth,['Central-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Bullfrog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Clawed Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Tree Toad,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+American Toad,['North-America'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Caecilian,"['Africa', 'Asia', 'Central-America', 'South-America']",Animalia,Chordata,Amphibia,Gymnophiona,Carnivore
+Common Frog,['Europe'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Common Toad,['Europe'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Congo Snake,"['Central-America', 'North-America']",Animalia,Chordata,Amphibia,Urodela,Carnivore
+Natterjack,"['Eurasia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Scrotum Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Striped Rocket Frog,['Oceania'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Clawed Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Tree Toad,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+American Toad,['North-America'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Common Toad,['Europe'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Darwin’s Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Desert Rain Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Edible Frog,['Europe'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Fire salamander,['Europe'],Animalia,Chordata,Amphibia,Urodela,Carnivore
+Fire-Bellied Toad,"['Asia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Giant Salamander,"['Asia', 'North-America']",Animalia,Chordata,Amphibia,Urodela,Omnivore
+Hellbender,['North-America'],Animalia,Chordata,Amphibia,Urodela,Carnivore
+Horned Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Leopard Frog,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Marine Toad,"['Central-America', 'Oceania', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Mudpuppy,['North-America'],Animalia,Chordata,Amphibia,Urodela,Omnivore
+Oak Toad,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Poison Dart Frog,"['Central-America', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Red-Eyed Tree Frog,"['Central-America', 'South-America']",Animalia,Chordata,Amphibia,Hylidae or Anura,Carnivore
+Salamander,"['Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Amphibia,Caudata,Carnivore
+Spadefoot Toad,"['Europe', 'North-America']",Animalia,Chordata,Amphibia,Mesobatrachia,Omnivore
+Striped Rocket Frog,['Oceania'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Tiger Salamander,"['North-America', 'Ocean']",Animalia,Chordata,Amphibia,Caudata,Carnivore
+Wood Frog,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Wyoming Toad,['Extinct in the Wild'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Clawed Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Tree Toad,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+American Toad,['North-America'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Caecilian,"['Africa', 'Asia', 'Central-America', 'South-America']",Animalia,Chordata,Amphibia,Gymnophiona,Carnivore
+Congo Snake,"['Central-America', 'North-America']",Animalia,Chordata,Amphibia,Urodela,Carnivore
+Desert Rain Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Edible Frog,['Europe'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Fire salamander,['Europe'],Animalia,Chordata,Amphibia,Urodela,Carnivore
+Fire-Bellied Toad,"['Asia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Giant Salamander,"['Asia', 'North-America']",Animalia,Chordata,Amphibia,Urodela,Omnivore
+Gray Tree Frog,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Green Frog,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Green Tree Frog,"['North-America', 'Oceania']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Hellbender,['North-America'],Animalia,Chordata,Amphibia,Urodela,Carnivore
+Horned Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Leopard Frog,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Mantella Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Marine Toad,"['Central-America', 'Oceania', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Monte Iberia Eleuth,['Central-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Natterjack,"['Eurasia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Newt,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Amphibia,Caudata,Omnivore
+Red-Eyed Tree Frog,"['Central-America', 'South-America']",Animalia,Chordata,Amphibia,Hylidae or Anura,Carnivore
+Salamander,"['Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Amphibia,Caudata,Carnivore
+Spadefoot Toad,"['Europe', 'North-America']",Animalia,Chordata,Amphibia,Mesobatrachia,Omnivore
+Striped Rocket Frog,['Oceania'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Tiger Salamander,"['North-America', 'Ocean']",Animalia,Chordata,Amphibia,Caudata,Carnivore
+Tree Frog,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+African Bullfrog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Clawed Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Tree Toad,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Bullfrog,"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Burrowing Frog,['Oceania'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Common Frog,['Europe'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Darwin’s Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Desert Rain Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Edible Frog,['Europe'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Fire salamander,['Europe'],Animalia,Chordata,Amphibia,Urodela,Carnivore
+Fire-Bellied Toad,"['Asia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Frog,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Amphibia,Anura,Omnivore
+Glass Frog,['Central-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Goliath Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Gray Tree Frog,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Green Frog,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Green Tree Frog,"['North-America', 'Oceania']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Horned Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Leopard Frog,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Mantella Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Marsh Frog,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Poison Dart Frog,"['Central-America', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Pool Frog,['Europe'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Red-Eyed Tree Frog,"['Central-America', 'South-America']",Animalia,Chordata,Amphibia,Hylidae or Anura,Carnivore
+Scrotum Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Spadefoot Toad,"['Europe', 'North-America']",Animalia,Chordata,Amphibia,Mesobatrachia,Omnivore
+Striped Rocket Frog,['Oceania'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Tree Frog,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Wood Frog,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Bullfrog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Clawed Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Bullfrog,"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Burrowing Frog,['Oceania'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Common Frog,['Europe'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Congo Snake,"['Central-America', 'North-America']",Animalia,Chordata,Amphibia,Urodela,Carnivore
+Darwin’s Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Desert Rain Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Edible Frog,['Europe'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Frog,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Amphibia,Anura,Omnivore
+Giant Salamander,"['Asia', 'North-America']",Animalia,Chordata,Amphibia,Urodela,Omnivore
+Glass Frog,['Central-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Goliath Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Gray Tree Frog,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Green Frog,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Green Tree Frog,"['North-America', 'Oceania']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Horned Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Leopard Frog,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Mantella Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Marsh Frog,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Poison Dart Frog,"['Central-America', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Pool Frog,['Europe'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Red-Eyed Tree Frog,"['Central-America', 'South-America']",Animalia,Chordata,Amphibia,Hylidae or Anura,Carnivore
+Scrotum Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Striped Rocket Frog,['Oceania'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Tiger Salamander,"['North-America', 'Ocean']",Animalia,Chordata,Amphibia,Caudata,Carnivore
+Tree Frog,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Wood Frog,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Wyoming Toad,['Extinct in the Wild'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Goliath Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Hellbender,['North-America'],Animalia,Chordata,Amphibia,Urodela,Carnivore
+Horned Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Marsh Frog,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Monte Iberia Eleuth,['Central-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Bullfrog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Clawed Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Tree Toad,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+American Toad,['North-America'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Burrowing Frog,['Oceania'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Caecilian,"['Africa', 'Asia', 'Central-America', 'South-America']",Animalia,Chordata,Amphibia,Gymnophiona,Carnivore
+Darwin’s Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Desert Rain Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Edible Frog,['Europe'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Fire salamander,['Europe'],Animalia,Chordata,Amphibia,Urodela,Carnivore
+Fire-Bellied Toad,"['Asia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Giant Salamander,"['Asia', 'North-America']",Animalia,Chordata,Amphibia,Urodela,Omnivore
+Goliath Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Marine Toad,"['Central-America', 'Oceania', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Monte Iberia Eleuth,['Central-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Poison Dart Frog,"['Central-America', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Striped Rocket Frog,['Oceania'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Tiger Salamander,"['North-America', 'Ocean']",Animalia,Chordata,Amphibia,Caudata,Carnivore
+Wyoming Toad,['Extinct in the Wild'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Natterjack,"['Eurasia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Congo Snake,"['Central-America', 'North-America']",Animalia,Chordata,Amphibia,Urodela,Carnivore
+Natterjack,"['Eurasia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Oak Toad,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Striped Rocket Frog,['Oceania'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Bullfrog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Clawed Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Axolotl,['Central-America'],Animalia,Chordata,Amphibia,Caudata,Carnivore
+Bullfrog,"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Caecilian,"['Africa', 'Asia', 'Central-America', 'South-America']",Animalia,Chordata,Amphibia,Gymnophiona,Carnivore
+Edible Frog,['Europe'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Fire salamander,['Europe'],Animalia,Chordata,Amphibia,Urodela,Carnivore
+Fire-Bellied Toad,"['Asia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Giant Salamander,"['Asia', 'North-America']",Animalia,Chordata,Amphibia,Urodela,Omnivore
+Glass Frog,['Central-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Goliath Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Hellbender,['North-America'],Animalia,Chordata,Amphibia,Urodela,Carnivore
+Leopard Frog,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Mantella Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Monte Iberia Eleuth,['Central-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Olm,['Europe'],Animalia,Chordata,Amphibia,Caudata,Carnivore
+Pool Frog,['Europe'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Salamander,"['Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Amphibia,Caudata,Carnivore
+Tiger Salamander,"['North-America', 'Ocean']",Animalia,Chordata,Amphibia,Caudata,Carnivore
+American Toad,['North-America'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Common Frog,['Europe'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Common Toad,['Europe'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Fire salamander,['Europe'],Animalia,Chordata,Amphibia,Urodela,Carnivore
+Giant Salamander,"['Asia', 'North-America']",Animalia,Chordata,Amphibia,Urodela,Omnivore
+Mantella Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Marine Toad,"['Central-America', 'Oceania', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Marsh Frog,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Monte Iberia Eleuth,['Central-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Mudpuppy,['North-America'],Animalia,Chordata,Amphibia,Urodela,Omnivore
+Olm,['Europe'],Animalia,Chordata,Amphibia,Caudata,Carnivore
+Salamander,"['Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Amphibia,Caudata,Carnivore
+Scrotum Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Tiger Salamander,"['North-America', 'Ocean']",Animalia,Chordata,Amphibia,Caudata,Carnivore
+Wyoming Toad,['Extinct in the Wild'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Bullfrog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Clawed Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Tree Toad,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+American Toad,['North-America'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Burrowing Frog,['Oceania'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Caecilian,"['Africa', 'Asia', 'Central-America', 'South-America']",Animalia,Chordata,Amphibia,Gymnophiona,Carnivore
+Common Frog,['Europe'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Common Toad,['Europe'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Congo Snake,"['Central-America', 'North-America']",Animalia,Chordata,Amphibia,Urodela,Carnivore
+Darwin’s Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Desert Rain Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Fire salamander,['Europe'],Animalia,Chordata,Amphibia,Urodela,Carnivore
+Giant Salamander,"['Asia', 'North-America']",Animalia,Chordata,Amphibia,Urodela,Omnivore
+Green Frog,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Green Tree Frog,"['North-America', 'Oceania']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Hellbender,['North-America'],Animalia,Chordata,Amphibia,Urodela,Carnivore
+Horned Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Mantella Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Marine Toad,"['Central-America', 'Oceania', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Monte Iberia Eleuth,['Central-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Natterjack,"['Eurasia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Newt,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Amphibia,Caudata,Omnivore
+Poison Dart Frog,"['Central-America', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Salamander,"['Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Amphibia,Caudata,Carnivore
+Tiger Salamander,"['North-America', 'Ocean']",Animalia,Chordata,Amphibia,Caudata,Carnivore
+Wyoming Toad,['Extinct in the Wild'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Bullfrog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Clawed Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Tree Toad,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+American Toad,['North-America'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Axolotl,['Central-America'],Animalia,Chordata,Amphibia,Caudata,Carnivore
+Bullfrog,"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Burrowing Frog,['Oceania'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Common Frog,['Europe'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Common Toad,['Europe'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Congo Snake,"['Central-America', 'North-America']",Animalia,Chordata,Amphibia,Urodela,Carnivore
+Darwin’s Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Desert Rain Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Edible Frog,['Europe'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Fire-Bellied Toad,"['Asia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Frog,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Amphibia,Anura,Omnivore
+Glass Frog,['Central-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Goliath Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Gray Tree Frog,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Green Frog,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Green Tree Frog,"['North-America', 'Oceania']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Horned Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Leopard Frog,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Mantella Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Marine Toad,"['Central-America', 'Oceania', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Marsh Frog,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Monte Iberia Eleuth,['Central-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Oak Toad,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Olm,['Europe'],Animalia,Chordata,Amphibia,Caudata,Carnivore
+Poison Dart Frog,"['Central-America', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Pool Frog,['Europe'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Red-Eyed Tree Frog,"['Central-America', 'South-America']",Animalia,Chordata,Amphibia,Hylidae or Anura,Carnivore
+Scrotum Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Spadefoot Toad,"['Europe', 'North-America']",Animalia,Chordata,Amphibia,Mesobatrachia,Omnivore
+Striped Rocket Frog,['Oceania'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Tree Frog,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Wood Frog,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Wyoming Toad,['Extinct in the Wild'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Leopard Frog,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Mudpuppy,['North-America'],Animalia,Chordata,Amphibia,Urodela,Omnivore
+Poison Dart Frog,"['Central-America', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Pool Frog,['Europe'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Spadefoot Toad,"['Europe', 'North-America']",Animalia,Chordata,Amphibia,Mesobatrachia,Omnivore
+Striped Rocket Frog,['Oceania'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Bullfrog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Clawed Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Tree Toad,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+American Toad,['North-America'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Bullfrog,"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Burrowing Frog,['Oceania'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Common Frog,['Europe'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Darwin’s Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Desert Rain Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Edible Frog,['Europe'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Fire salamander,['Europe'],Animalia,Chordata,Amphibia,Urodela,Carnivore
+Fire-Bellied Toad,"['Asia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Frog,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Amphibia,Anura,Omnivore
+Giant Salamander,"['Asia', 'North-America']",Animalia,Chordata,Amphibia,Urodela,Omnivore
+Glass Frog,['Central-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Goliath Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Gray Tree Frog,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Green Frog,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Green Tree Frog,"['North-America', 'Oceania']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Hellbender,['North-America'],Animalia,Chordata,Amphibia,Urodela,Carnivore
+Horned Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Leopard Frog,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Mantella Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Marine Toad,"['Central-America', 'Oceania', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Marsh Frog,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Monte Iberia Eleuth,['Central-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Natterjack,"['Eurasia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Poison Dart Frog,"['Central-America', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Pool Frog,['Europe'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Red-Eyed Tree Frog,"['Central-America', 'South-America']",Animalia,Chordata,Amphibia,Hylidae or Anura,Carnivore
+Salamander,"['Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Amphibia,Caudata,Carnivore
+Scrotum Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Striped Rocket Frog,['Oceania'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Tiger Salamander,"['North-America', 'Ocean']",Animalia,Chordata,Amphibia,Caudata,Carnivore
+Tree Frog,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Wood Frog,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Congo Snake,"['Central-America', 'North-America']",Animalia,Chordata,Amphibia,Urodela,Carnivore
+Darwin’s Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Desert Rain Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Fire salamander,['Europe'],Animalia,Chordata,Amphibia,Urodela,Carnivore
+Giant Salamander,"['Asia', 'North-America']",Animalia,Chordata,Amphibia,Urodela,Omnivore
+Glass Frog,['Central-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Marsh Frog,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Poison Dart Frog,"['Central-America', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Salamander,"['Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Amphibia,Caudata,Carnivore
+Scrotum Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Spadefoot Toad,"['Europe', 'North-America']",Animalia,Chordata,Amphibia,Mesobatrachia,Omnivore
+Striped Rocket Frog,['Oceania'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Tiger Salamander,"['North-America', 'Ocean']",Animalia,Chordata,Amphibia,Caudata,Carnivore
+African Tree Toad,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+American Toad,['North-America'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Axolotl,['Central-America'],Animalia,Chordata,Amphibia,Caudata,Carnivore
+Common Toad,['Europe'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Desert Rain Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Omnivore
+Fire-Bellied Toad,"['Asia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Giant Salamander,"['Asia', 'North-America']",Animalia,Chordata,Amphibia,Urodela,Omnivore
+Goliath Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Gray Tree Frog,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Green Tree Frog,"['North-America', 'Oceania']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Mantella Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Marine Toad,"['Central-America', 'Oceania', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Monte Iberia Eleuth,['Central-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Natterjack,"['Eurasia', 'Europe']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Newt,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Amphibia,Caudata,Omnivore
+Oak Toad,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Poison Dart Frog,"['Central-America', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Red-Eyed Tree Frog,"['Central-America', 'South-America']",Animalia,Chordata,Amphibia,Hylidae or Anura,Carnivore
+Scrotum Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Spadefoot Toad,"['Europe', 'North-America']",Animalia,Chordata,Amphibia,Mesobatrachia,Omnivore
+Striped Rocket Frog,['Oceania'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Tiger Salamander,"['North-America', 'Ocean']",Animalia,Chordata,Amphibia,Caudata,Carnivore
+Tree Frog,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Wyoming Toad,['Extinct in the Wild'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Bullfrog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Bullfrog,"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Amphibia,Anura,Carnivore
+Burrowing Frog,['Oceania'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Monte Iberia Eleuth,['Central-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Mudpuppy,['North-America'],Animalia,Chordata,Amphibia,Urodela,Omnivore
+Scrotum Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+African Clawed Frog,['Africa'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Burrowing Frog,['Oceania'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Darwin’s Frog,['South-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Newt,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Amphibia,Caudata,Omnivore
+Wood Frog,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Wyoming Toad,['Extinct in the Wild'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Axolotl,['Central-America'],Animalia,Chordata,Amphibia,Caudata,Carnivore
+Gray Tree Frog,['North-America'],Animalia,Chordata,Amphibia,Anura,Carnivore
+Mudpuppy,['North-America'],Animalia,Chordata,Amphibia,Urodela,Omnivore
+Red-Eyed Tree Frog,"['Central-America', 'South-America']",Animalia,Chordata,Amphibia,Hylidae or Anura,Carnivore
+Wyoming Toad,['Extinct in the Wild'],Animalia,Chordata,Amphibia,Anura,Carnivore

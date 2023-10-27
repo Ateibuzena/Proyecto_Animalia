@@ -1,0 +1,968 @@
+name,locations,taxonomy_kingdom,taxonomy_phylum,taxonomy_class,taxonomy_order,characteristics_diet
+Albacore Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Alligator Gar,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Anchovies,['Ocean'],Animalia,Chordata,Actinopterygii,Clupeiformes,Omnivore
+Angelfish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Anglerfish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiiformes,Omnivore
+Arapaima,['South-America'],Animalia,Chordata,Actinopterygii,Osteoglossiformes,Omnivore
+Banana Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Barb,"['Africa', 'Asia', 'Eurasia', 'South-America']",Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Barracuda,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Barramundi Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Beluga Sturgeon,['Ocean'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Betta Fish (Siamese Fighting Fish),['Asia'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Black Marlin,['Ocean'],Animalia,Chordata,Actinopterygii,Istiophoriformes,Omnivore
+Blue Catfish,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Bluefin Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Carp,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Chinese Paddlefish,['Asia'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Chinook Salmon,['Ocean'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Cobia Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Carangiformes,Carnivore
+Crappie Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Crucian Carp,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Danios,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Dragonfish,['Data Deficient'],Animalia,Chordata,Actinopterygii,Syngnathiformes and Stomiiformes,Carnivore
+Electric Catfish,['Africa'],Animalia,Chordata,Actinopterygii,Siluriformes,Carnivore
+Escolar,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Fangtooth,['Ocean'],Animalia,Chordata,Actinopterygii,Beryciformes,Carnivore
+Florida Gar,['North-America'],Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Football Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Freshwater Eel,"['Africa', 'Asia', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Gar,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Garden Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Ghost Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Silurormes,Carnivore
+Grass Carp,"['Asia', 'Eurasia']",Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Haddock,['Ocean'],Animalia,Chordata,Actinopterygii,Gadiformes,Carnivore
+Hardhead Catfish,['Ocean'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Keta Salmon,['Ocean'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Lake Sturgeon,[],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Lawnmower Blenny,"['Africa', 'Oceania']",Animalia,Chordata,Actinopterygii,Blenniiformes,Herbivore
+Lizardfish,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Actinopterygii,Aulopiformes,Carnivore
+Loach,"['Asia', 'Europe', 'North-America']",Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Longnose Gar,['North-America'],Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Mahi Mahi (Dolphin Fish),"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Carangiformes,Omnivore
+Mekong Giant Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Herbivore
+Mojarra,"['Central-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Mola mola (Ocean Sunfish),['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Carnivore
+Moray Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Oscar Fish,"['Europe', 'North-America', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Oyster Toadfish,['Ocean'],Animalia,Chordata,Actinopterygii,Batrachoidiformes,Omnivore
+Paddlefish,"['Asia', 'North-America']",Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Parrotfish,['Ocean'],Animalia,Chordata,Actinopterygii,Labriformes,Herbivore
+Piranha,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Red-Lipped Batfish,['South-America'],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Redtail Catfish,['South-America'],Animalia,Chordata,Actinopterygii,Siluriformes,Carnivore
+Salmon,"['North-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Sardines,['Ocean'],Animalia,Chordata,Actinopterygii,Clupeiformes,Omnivore
+Sea Dragon,"['Ocean', 'Oceania']",Animalia,Chordata,Actinopterygii,Syngnathiformes,Carnivore
+Seahorse,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Actinopterygii,Syngnathiformes,Omnivore
+Silver Dollar,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Skipjack Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Sockeye Salmon,"['North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Spotted Gar,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Stargazer Fish,"['North-America', 'Ocean', 'Oceania']",Animalia,Chordata,Actinopterygii,Trachiniformes,Omnivore
+Swai Fish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Tang,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Tarpon,['Ocean'],Animalia,Chordata,Actinopterygii,Elopiformes,Carnivore
+Tetra,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Tire Track Eel,['Asia'],Animalia,Chordata,Actinopterygii,Synbranchiformes,Carnivore
+Toadfish,['Ocean'],Animalia,Chordata,Actinopterygii,Batrachoidiformes,Carnivore
+Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Omnivore
+Wahoo Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Walking Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Walleye Fish,['North-America'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Wels Catfish,['Europe'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Wrasse,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+X-Ray Tetra,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Yellowfin Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Zebra Pleco,['South-America'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Albacore Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Banana Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Barb,"['Africa', 'Asia', 'Eurasia', 'South-America']",Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Barracuda,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Barramundi Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Beluga Sturgeon,['Ocean'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Betta Fish (Siamese Fighting Fish),['Asia'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Bichir,['Africa'],Animalia,Chordata,Actinopterygii,Polypteriformes,Carnivore
+Black Marlin,['Ocean'],Animalia,Chordata,Actinopterygii,Istiophoriformes,Omnivore
+Blobfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Blue Catfish,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Bluefin Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Bluegill,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Bonito Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Bowfin,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Amiiformes,Carnivore
+Boxfish,['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Omnivore
+Bull Trout,['North-America'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Butterfly Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Cobia Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Carangiformes,Carnivore
+Football Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Lawnmower Blenny,"['Africa', 'Oceania']",Animalia,Chordata,Actinopterygii,Blenniiformes,Herbivore
+Red-Lipped Batfish,['South-America'],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Ribbon Eel,"['Africa', 'Asia', 'Oceania']",Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Zebra Pleco,['South-America'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Albacore Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Anchovies,['Ocean'],Animalia,Chordata,Actinopterygii,Clupeiformes,Omnivore
+Barracuda,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Bichir,['Africa'],Animalia,Chordata,Actinopterygii,Polypteriformes,Carnivore
+Black Marlin,['Ocean'],Animalia,Chordata,Actinopterygii,Istiophoriformes,Omnivore
+Blue Catfish,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Carp,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Chinese Paddlefish,['Asia'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Chinook Salmon,['Ocean'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Cichlid,"['Africa', 'Central-America', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Clownfish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Cobia Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Carangiformes,Carnivore
+Codfish,['Ocean'],Animalia,Chordata,Actinopterygii,Gadiformes,Carnivore
+Conger Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Crappie Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Crucian Carp,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Discus,['South-America'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Electric Catfish,['Africa'],Animalia,Chordata,Actinopterygii,Siluriformes,Carnivore
+Electric Eel,['South-America'],Animalia,Chordata,Actinopterygii,Gymnotiformes,Carnivore
+Escolar,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Ghost Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Silurormes,Carnivore
+Grass Carp,"['Asia', 'Eurasia']",Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Haddock,['Ocean'],Animalia,Chordata,Actinopterygii,Gadiformes,Carnivore
+Hardhead Catfish,['Ocean'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Loach,"['Asia', 'Europe', 'North-America']",Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Mekong Giant Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Herbivore
+Mola mola (Ocean Sunfish),['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Carnivore
+Oscar Fish,"['Europe', 'North-America', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Redtail Catfish,['South-America'],Animalia,Chordata,Actinopterygii,Siluriformes,Carnivore
+Rockfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Scorpion Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Skipjack Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Sockeye Salmon,"['North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Sucker Fish,[],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Telescope Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Aulopiformes,Omnivore
+Tire Track Eel,['Asia'],Animalia,Chordata,Actinopterygii,Synbranchiformes,Carnivore
+Walking Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Wels Catfish,['Europe'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Zebra Pleco,['South-America'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Barracuda,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Barramundi Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Chinese Paddlefish,['Asia'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Cichlid,"['Africa', 'Central-America', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Codfish,['Ocean'],Animalia,Chordata,Actinopterygii,Gadiformes,Carnivore
+Danios,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Discus,['South-America'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Dragonfish,['Data Deficient'],Animalia,Chordata,Actinopterygii,Syngnathiformes and Stomiiformes,Carnivore
+Drum Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Florida Gar,['North-America'],Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Flounder,['Ocean'],Animalia,Chordata,Actinopterygii,Pleuronectiformes,Carnivore
+Fluke Fish (summer flounder),['Ocean'],Animalia,Chordata,Actinopterygii,Pleuronectiformes,Omnivore
+Garden Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Goldfish,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Haddock,['Ocean'],Animalia,Chordata,Actinopterygii,Gadiformes,Carnivore
+Hardhead Catfish,['Ocean'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Lizardfish,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Actinopterygii,Aulopiformes,Carnivore
+Mahi Mahi (Dolphin Fish),"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Carangiformes,Omnivore
+Needlefish,"['Africa', 'Asia', 'Central-America', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Actinopterygii,Beloniformes,Carnivore
+Oyster Toadfish,['Ocean'],Animalia,Chordata,Actinopterygii,Batrachoidiformes,Omnivore
+Paddlefish,"['Asia', 'North-America']",Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Red-Lipped Batfish,['South-America'],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Redtail Catfish,['South-America'],Animalia,Chordata,Actinopterygii,Siluriformes,Carnivore
+Sardines,['Ocean'],Animalia,Chordata,Actinopterygii,Clupeiformes,Omnivore
+Sea Dragon,"['Ocean', 'Oceania']",Animalia,Chordata,Actinopterygii,Syngnathiformes,Carnivore
+Silver Dollar,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Spotted Gar,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Toadfish,['Ocean'],Animalia,Chordata,Actinopterygii,Batrachoidiformes,Carnivore
+Albacore Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Anchovies,['Ocean'],Animalia,Chordata,Actinopterygii,Clupeiformes,Omnivore
+Angelfish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Anglerfish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiiformes,Omnivore
+Banana Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Beluga Sturgeon,['Ocean'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Betta Fish (Siamese Fighting Fish),['Asia'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Blue Catfish,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Bluefin Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Bluegill,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Butterfly Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Chinese Paddlefish,['Asia'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Conger Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Crappie Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Eel,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Electric Catfish,['Africa'],Animalia,Chordata,Actinopterygii,Siluriformes,Carnivore
+Electric Eel,['South-America'],Animalia,Chordata,Actinopterygii,Gymnotiformes,Carnivore
+Escolar,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Fire Eel,['Asia'],Animalia,Chordata,Actinopterygii,Synbranchiformes,Omnivore
+Flounder,['Ocean'],Animalia,Chordata,Actinopterygii,Pleuronectiformes,Carnivore
+Flowerhorn Fish,"['Asia', 'North-America']",Animalia,Chordata,Actinopterygii,Cichliformes,Omnivore
+Fluke Fish (summer flounder),['Ocean'],Animalia,Chordata,Actinopterygii,Pleuronectiformes,Omnivore
+Freshwater Eel,"['Africa', 'Asia', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Garden Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Grouper,"['Africa', 'Central-America', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Hardhead Catfish,['Ocean'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Herring,['Ocean'],Animalia,Chordata,Actinopterygii,Clupeiformes,Carnivore
+Keta Salmon,['Ocean'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Lake Sturgeon,[],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Lawnmower Blenny,"['Africa', 'Oceania']",Animalia,Chordata,Actinopterygii,Blenniiformes,Herbivore
+Longnose Gar,['North-America'],Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Mekong Giant Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Herbivore
+Mola mola (Ocean Sunfish),['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Carnivore
+Moray Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Needlefish,"['Africa', 'Asia', 'Central-America', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Actinopterygii,Beloniformes,Carnivore
+Oyster Toadfish,['Ocean'],Animalia,Chordata,Actinopterygii,Batrachoidiformes,Omnivore
+Paddlefish,"['Asia', 'North-America']",Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Pike Fish,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Actinopterygii,Esociformes,Carnivore
+Pipefish,['Ocean'],Animalia,Chordata,Actinopterygii,Syngnathiformes,Carnivore
+Pufferfish,['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Carnivore
+Red-Lipped Batfish,['South-America'],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Redtail Catfish,['South-America'],Animalia,Chordata,Actinopterygii,Siluriformes,Carnivore
+Ribbon Eel,"['Africa', 'Asia', 'Oceania']",Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Sardines,['Ocean'],Animalia,Chordata,Actinopterygii,Clupeiformes,Omnivore
+Sea Dragon,"['Ocean', 'Oceania']",Animalia,Chordata,Actinopterygii,Syngnathiformes,Carnivore
+Seahorse,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Actinopterygii,Syngnathiformes,Omnivore
+Silver Dollar,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Sockeye Salmon,"['North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Spotted Gar,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Squirrelfish,['Ocean'],Animalia,Chordata,Actinopterygii,Beryciformes,Carnivore
+Stargazer Fish,"['North-America', 'Ocean', 'Oceania']",Animalia,Chordata,Actinopterygii,Trachiniformes,Omnivore
+Sturgeon,['Ocean'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Sucker Fish,[],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Surgeonfish,"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Acanthuriformes,Herbivore
+Telescope Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Aulopiformes,Omnivore
+Tetra,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Tire Track Eel,['Asia'],Animalia,Chordata,Actinopterygii,Synbranchiformes,Carnivore
+Walleye Fish,['North-America'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Wels Catfish,['Europe'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Wolf Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Wrasse,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+X-Ray Tetra,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Yellowfin Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Zebra Pleco,['South-America'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Angelfish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Anglerfish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiiformes,Omnivore
+Barramundi Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Betta Fish (Siamese Fighting Fish),['Asia'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Blobfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Blue Catfish,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Bluefin Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Bonito Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Bowfin,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Amiiformes,Carnivore
+Boxfish,['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Omnivore
+Butterfly Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Chinese Paddlefish,['Asia'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Clownfish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Cobia Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Carangiformes,Carnivore
+Codfish,['Ocean'],Animalia,Chordata,Actinopterygii,Gadiformes,Carnivore
+Crappie Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Dragonfish,['Data Deficient'],Animalia,Chordata,Actinopterygii,Syngnathiformes and Stomiiformes,Carnivore
+Drum Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Electric Catfish,['Africa'],Animalia,Chordata,Actinopterygii,Siluriformes,Carnivore
+Fangtooth,['Ocean'],Animalia,Chordata,Actinopterygii,Beryciformes,Carnivore
+Fire Eel,['Asia'],Animalia,Chordata,Actinopterygii,Synbranchiformes,Omnivore
+Florida Gar,['North-America'],Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Flounder,['Ocean'],Animalia,Chordata,Actinopterygii,Pleuronectiformes,Carnivore
+Flowerhorn Fish,"['Asia', 'North-America']",Animalia,Chordata,Actinopterygii,Cichliformes,Omnivore
+Fluke Fish (summer flounder),['Ocean'],Animalia,Chordata,Actinopterygii,Pleuronectiformes,Omnivore
+Flying Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Beloniformes,Omnivore
+Football Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Freshwater Eel,"['Africa', 'Asia', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Frogfish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiformes,Carnivore
+Ghost Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Silurormes,Carnivore
+Goldfish,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Hardhead Catfish,['Ocean'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Koi Fish,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Lionfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Carnivore
+Lizardfish,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Actinopterygii,Aulopiformes,Carnivore
+Lumpfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Carnivore
+Mahi Mahi (Dolphin Fish),"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Carangiformes,Omnivore
+Mekong Giant Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Herbivore
+Milkfish,"['Asia', 'Ocean']",Animalia,Chordata,Actinopterygii,Gonorhynchiformes,Omnivore
+Mola mola (Ocean Sunfish),['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Carnivore
+Monkfish,[],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Needlefish,"['Africa', 'Asia', 'Central-America', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Actinopterygii,Beloniformes,Carnivore
+Oscar Fish,"['Europe', 'North-America', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Oyster Toadfish,['Ocean'],Animalia,Chordata,Actinopterygii,Batrachoidiformes,Omnivore
+Paddlefish,"['Asia', 'North-America']",Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Parrotfish,['Ocean'],Animalia,Chordata,Actinopterygii,Labriformes,Herbivore
+Pike Fish,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Actinopterygii,Esociformes,Carnivore
+Pipefish,['Ocean'],Animalia,Chordata,Actinopterygii,Syngnathiformes,Carnivore
+Pufferfish,['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Carnivore
+Red-Lipped Batfish,['South-America'],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Redtail Catfish,['South-America'],Animalia,Chordata,Actinopterygii,Siluriformes,Carnivore
+Rockfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Scorpion Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Squirrelfish,['Ocean'],Animalia,Chordata,Actinopterygii,Beryciformes,Carnivore
+Stargazer Fish,"['North-America', 'Ocean', 'Oceania']",Animalia,Chordata,Actinopterygii,Trachiniformes,Omnivore
+Sucker Fish,[],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Surgeonfish,"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Acanthuriformes,Herbivore
+Swai Fish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Telescope Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Aulopiformes,Omnivore
+Toadfish,['Ocean'],Animalia,Chordata,Actinopterygii,Batrachoidiformes,Carnivore
+Wahoo Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Walking Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Walleye Fish,['North-America'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Wels Catfish,['Europe'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Wolf Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Wolffish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Yellowfin Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Alligator Gar,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Angelfish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Anglerfish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiiformes,Omnivore
+Beluga Sturgeon,['Ocean'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Betta Fish (Siamese Fighting Fish),['Asia'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Bluegill,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Conger Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Dragonfish,['Data Deficient'],Animalia,Chordata,Actinopterygii,Syngnathiformes and Stomiiformes,Carnivore
+Fangtooth,['Ocean'],Animalia,Chordata,Actinopterygii,Beryciformes,Carnivore
+Florida Gar,['North-America'],Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Flying Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Beloniformes,Omnivore
+Frogfish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiformes,Carnivore
+Gar,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Garden Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Ghost Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Silurormes,Carnivore
+Goldfish,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Grass Carp,"['Asia', 'Eurasia']",Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Grouper,"['Africa', 'Central-America', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Guppy,"['Central-America', 'South-America']",Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Omnivore
+Herring,['Ocean'],Animalia,Chordata,Actinopterygii,Clupeiformes,Carnivore
+Lake Sturgeon,[],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Longnose Gar,['North-America'],Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Mekong Giant Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Herbivore
+Sea Dragon,"['Ocean', 'Oceania']",Animalia,Chordata,Actinopterygii,Syngnathiformes,Carnivore
+Spotted Gar,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Stargazer Fish,"['North-America', 'Ocean', 'Oceania']",Animalia,Chordata,Actinopterygii,Trachiniformes,Omnivore
+Sturgeon,['Ocean'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Surgeonfish,"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Acanthuriformes,Herbivore
+Tang,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Walking Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Anchovies,['Ocean'],Animalia,Chordata,Actinopterygii,Clupeiformes,Omnivore
+Angelfish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Anglerfish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiiformes,Omnivore
+Barramundi Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Betta Fish (Siamese Fighting Fish),['Asia'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Bichir,['Africa'],Animalia,Chordata,Actinopterygii,Polypteriformes,Carnivore
+Blobfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Blue Catfish,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Bonito Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Boxfish,['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Omnivore
+Butterfly Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Chinese Paddlefish,['Asia'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Chinook Salmon,['Ocean'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Cichlid,"['Africa', 'Central-America', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Clownfish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Cobia Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Carangiformes,Carnivore
+Codfish,['Ocean'],Animalia,Chordata,Actinopterygii,Gadiformes,Carnivore
+Crappie Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Dragonfish,['Data Deficient'],Animalia,Chordata,Actinopterygii,Syngnathiformes and Stomiiformes,Carnivore
+Drum Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Electric Catfish,['Africa'],Animalia,Chordata,Actinopterygii,Siluriformes,Carnivore
+Fangtooth,['Ocean'],Animalia,Chordata,Actinopterygii,Beryciformes,Carnivore
+Flowerhorn Fish,"['Asia', 'North-America']",Animalia,Chordata,Actinopterygii,Cichliformes,Omnivore
+Fluke Fish (summer flounder),['Ocean'],Animalia,Chordata,Actinopterygii,Pleuronectiformes,Omnivore
+Flying Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Beloniformes,Omnivore
+Football Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Freshwater Eel,"['Africa', 'Asia', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Frogfish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiformes,Carnivore
+Ghost Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Silurormes,Carnivore
+Goldfish,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Haddock,['Ocean'],Animalia,Chordata,Actinopterygii,Gadiformes,Carnivore
+Hardhead Catfish,['Ocean'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Herring,['Ocean'],Animalia,Chordata,Actinopterygii,Clupeiformes,Carnivore
+Koi Fish,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Lionfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Carnivore
+Lizardfish,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Actinopterygii,Aulopiformes,Carnivore
+Loach,"['Asia', 'Europe', 'North-America']",Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Lumpfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Carnivore
+Mahi Mahi (Dolphin Fish),"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Carangiformes,Omnivore
+Mekong Giant Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Herbivore
+Milkfish,"['Asia', 'Ocean']",Animalia,Chordata,Actinopterygii,Gonorhynchiformes,Omnivore
+Mola mola (Ocean Sunfish),['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Carnivore
+Monkfish,[],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Needlefish,"['Africa', 'Asia', 'Central-America', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Actinopterygii,Beloniformes,Carnivore
+Oscar Fish,"['Europe', 'North-America', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Oyster Toadfish,['Ocean'],Animalia,Chordata,Actinopterygii,Batrachoidiformes,Omnivore
+Paddlefish,"['Asia', 'North-America']",Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Parrotfish,['Ocean'],Animalia,Chordata,Actinopterygii,Labriformes,Herbivore
+Pike Fish,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Actinopterygii,Esociformes,Carnivore
+Pipefish,['Ocean'],Animalia,Chordata,Actinopterygii,Syngnathiformes,Carnivore
+Piranha,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Pufferfish,['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Carnivore
+Red-Lipped Batfish,['South-America'],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Redtail Catfish,['South-America'],Animalia,Chordata,Actinopterygii,Siluriformes,Carnivore
+Rockfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Scorpion Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Seahorse,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Actinopterygii,Syngnathiformes,Omnivore
+Squirrelfish,['Ocean'],Animalia,Chordata,Actinopterygii,Beryciformes,Carnivore
+Stargazer Fish,"['North-America', 'Ocean', 'Oceania']",Animalia,Chordata,Actinopterygii,Trachiniformes,Omnivore
+Sucker Fish,[],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Surgeonfish,"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Acanthuriformes,Herbivore
+Swai Fish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Telescope Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Aulopiformes,Omnivore
+Toadfish,['Ocean'],Animalia,Chordata,Actinopterygii,Batrachoidiformes,Carnivore
+Wahoo Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Walking Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Walleye Fish,['North-America'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Wels Catfish,['Europe'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Wolffish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Alligator Gar,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Anchovies,['Ocean'],Animalia,Chordata,Actinopterygii,Clupeiformes,Omnivore
+Angelfish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Anglerfish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiiformes,Omnivore
+Arapaima,['South-America'],Animalia,Chordata,Actinopterygii,Osteoglossiformes,Omnivore
+Barramundi Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Betta Fish (Siamese Fighting Fish),['Asia'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Bichir,['Africa'],Animalia,Chordata,Actinopterygii,Polypteriformes,Carnivore
+Black Marlin,['Ocean'],Animalia,Chordata,Actinopterygii,Istiophoriformes,Omnivore
+Blobfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Blue Catfish,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Bluefin Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Bluegill,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Bonito Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Bowfin,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Amiiformes,Carnivore
+Boxfish,['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Omnivore
+Butterfly Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Chinese Paddlefish,['Asia'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Chinook Salmon,['Ocean'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Cichlid,"['Africa', 'Central-America', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Clownfish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Cobia Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Carangiformes,Carnivore
+Codfish,['Ocean'],Animalia,Chordata,Actinopterygii,Gadiformes,Carnivore
+Crappie Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Crucian Carp,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Danios,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Discus,['South-America'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Dragonfish,['Data Deficient'],Animalia,Chordata,Actinopterygii,Syngnathiformes and Stomiiformes,Carnivore
+Drum Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Electric Catfish,['Africa'],Animalia,Chordata,Actinopterygii,Siluriformes,Carnivore
+Electric Eel,['South-America'],Animalia,Chordata,Actinopterygii,Gymnotiformes,Carnivore
+Fire Eel,['Asia'],Animalia,Chordata,Actinopterygii,Synbranchiformes,Omnivore
+Florida Gar,['North-America'],Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Flowerhorn Fish,"['Asia', 'North-America']",Animalia,Chordata,Actinopterygii,Cichliformes,Omnivore
+Fluke Fish (summer flounder),['Ocean'],Animalia,Chordata,Actinopterygii,Pleuronectiformes,Omnivore
+Flying Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Beloniformes,Omnivore
+Football Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Frogfish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiformes,Carnivore
+Ghost Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Silurormes,Carnivore
+Goldfish,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Hardhead Catfish,['Ocean'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Herring,['Ocean'],Animalia,Chordata,Actinopterygii,Clupeiformes,Carnivore
+Koi Fish,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Lionfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Carnivore
+Lizardfish,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Actinopterygii,Aulopiformes,Carnivore
+Lumpfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Carnivore
+Mahi Mahi (Dolphin Fish),"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Carangiformes,Omnivore
+Mekong Giant Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Herbivore
+Milkfish,"['Asia', 'Ocean']",Animalia,Chordata,Actinopterygii,Gonorhynchiformes,Omnivore
+Mola mola (Ocean Sunfish),['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Carnivore
+Monkfish,[],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Needlefish,"['Africa', 'Asia', 'Central-America', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Actinopterygii,Beloniformes,Carnivore
+Oscar Fish,"['Europe', 'North-America', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Oyster Toadfish,['Ocean'],Animalia,Chordata,Actinopterygii,Batrachoidiformes,Omnivore
+Paddlefish,"['Asia', 'North-America']",Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Parrotfish,['Ocean'],Animalia,Chordata,Actinopterygii,Labriformes,Herbivore
+Pike Fish,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Actinopterygii,Esociformes,Carnivore
+Pipefish,['Ocean'],Animalia,Chordata,Actinopterygii,Syngnathiformes,Carnivore
+Piranha,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Pufferfish,['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Carnivore
+Red-Lipped Batfish,['South-America'],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Redtail Catfish,['South-America'],Animalia,Chordata,Actinopterygii,Siluriformes,Carnivore
+Ribbon Eel,"['Africa', 'Asia', 'Oceania']",Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Rockfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Sardines,['Ocean'],Animalia,Chordata,Actinopterygii,Clupeiformes,Omnivore
+Scorpion Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Silver Dollar,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Skipjack Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Squirrelfish,['Ocean'],Animalia,Chordata,Actinopterygii,Beryciformes,Carnivore
+Stargazer Fish,"['North-America', 'Ocean', 'Oceania']",Animalia,Chordata,Actinopterygii,Trachiniformes,Omnivore
+Sucker Fish,[],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Surgeonfish,"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Acanthuriformes,Herbivore
+Swai Fish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Telescope Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Aulopiformes,Omnivore
+Tire Track Eel,['Asia'],Animalia,Chordata,Actinopterygii,Synbranchiformes,Carnivore
+Toadfish,['Ocean'],Animalia,Chordata,Actinopterygii,Batrachoidiformes,Carnivore
+Wahoo Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Walking Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Walleye Fish,['North-America'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Wels Catfish,['Europe'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Wolffish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Yellowfin Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Mojarra,"['Central-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Skipjack Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Black Marlin,['Ocean'],Animalia,Chordata,Actinopterygii,Istiophoriformes,Omnivore
+Chinook Salmon,['Ocean'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Fluke Fish (summer flounder),['Ocean'],Animalia,Chordata,Actinopterygii,Pleuronectiformes,Omnivore
+Haddock,['Ocean'],Animalia,Chordata,Actinopterygii,Gadiformes,Carnivore
+Keta Salmon,['Ocean'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Koi Fish,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Lake Sturgeon,[],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Mekong Giant Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Herbivore
+Milkfish,"['Asia', 'Ocean']",Animalia,Chordata,Actinopterygii,Gonorhynchiformes,Omnivore
+Monkfish,[],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Pike Fish,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Actinopterygii,Esociformes,Carnivore
+Rockfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Skipjack Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Sockeye Salmon,"['North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Sucker Fish,[],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Tire Track Eel,['Asia'],Animalia,Chordata,Actinopterygii,Synbranchiformes,Carnivore
+Walking Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Albacore Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Alligator Gar,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Angelfish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Anglerfish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiiformes,Omnivore
+Banana Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Beluga Sturgeon,['Ocean'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Black Marlin,['Ocean'],Animalia,Chordata,Actinopterygii,Istiophoriformes,Omnivore
+Blobfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Blue Catfish,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Bluefin Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Bluegill,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Bull Trout,['North-America'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Butterfly Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Chinese Paddlefish,['Asia'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Chinook Salmon,['Ocean'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Cichlid,"['Africa', 'Central-America', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Clownfish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Conger Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Eel,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Electric Catfish,['Africa'],Animalia,Chordata,Actinopterygii,Siluriformes,Carnivore
+Electric Eel,['South-America'],Animalia,Chordata,Actinopterygii,Gymnotiformes,Carnivore
+Escolar,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Fire Eel,['Asia'],Animalia,Chordata,Actinopterygii,Synbranchiformes,Omnivore
+Florida Gar,['North-America'],Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Flounder,['Ocean'],Animalia,Chordata,Actinopterygii,Pleuronectiformes,Carnivore
+Flowerhorn Fish,"['Asia', 'North-America']",Animalia,Chordata,Actinopterygii,Cichliformes,Omnivore
+Fluke Fish (summer flounder),['Ocean'],Animalia,Chordata,Actinopterygii,Pleuronectiformes,Omnivore
+Flying Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Beloniformes,Omnivore
+Football Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Freshwater Eel,"['Africa', 'Asia', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Garden Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Goldfish,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Keta Salmon,['Ocean'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Lake Sturgeon,[],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Lawnmower Blenny,"['Africa', 'Oceania']",Animalia,Chordata,Actinopterygii,Blenniiformes,Herbivore
+Lionfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Carnivore
+Lizardfish,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Actinopterygii,Aulopiformes,Carnivore
+Loach,"['Asia', 'Europe', 'North-America']",Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Longnose Gar,['North-America'],Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Lumpfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Carnivore
+Mahi Mahi (Dolphin Fish),"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Carangiformes,Omnivore
+Milkfish,"['Asia', 'Ocean']",Animalia,Chordata,Actinopterygii,Gonorhynchiformes,Omnivore
+Mola mola (Ocean Sunfish),['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Carnivore
+Molly,"['Central-America', 'South-America']",Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Omnivore
+Moray Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Needlefish,"['Africa', 'Asia', 'Central-America', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Actinopterygii,Beloniformes,Carnivore
+Paddlefish,"['Asia', 'North-America']",Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Red-Lipped Batfish,['South-America'],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Redtail Catfish,['South-America'],Animalia,Chordata,Actinopterygii,Siluriformes,Carnivore
+Ribbon Eel,"['Africa', 'Asia', 'Oceania']",Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Salmon,"['North-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Silver Dollar,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Sockeye Salmon,"['North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Squirrelfish,['Ocean'],Animalia,Chordata,Actinopterygii,Beryciformes,Carnivore
+Telescope Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Aulopiformes,Omnivore
+Tire Track Eel,['Asia'],Animalia,Chordata,Actinopterygii,Synbranchiformes,Carnivore
+Walking Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Walleye Fish,['North-America'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Wels Catfish,['Europe'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Wolf Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Wolffish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Yellowfin Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Zebra Pleco,['South-America'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Arapaima,['South-America'],Animalia,Chordata,Actinopterygii,Osteoglossiformes,Omnivore
+Barramundi Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Betta Fish (Siamese Fighting Fish),['Asia'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Black Marlin,['Ocean'],Animalia,Chordata,Actinopterygii,Istiophoriformes,Omnivore
+Chinook Salmon,['Ocean'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Drum Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Fluke Fish (summer flounder),['Ocean'],Animalia,Chordata,Actinopterygii,Pleuronectiformes,Omnivore
+Keta Salmon,['Ocean'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Lawnmower Blenny,"['Africa', 'Oceania']",Animalia,Chordata,Actinopterygii,Blenniiformes,Herbivore
+Lumpfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Carnivore
+Mahi Mahi (Dolphin Fish),"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Carangiformes,Omnivore
+Mekong Giant Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Herbivore
+Milkfish,"['Asia', 'Ocean']",Animalia,Chordata,Actinopterygii,Gonorhynchiformes,Omnivore
+Mojarra,"['Central-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Mola mola (Ocean Sunfish),['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Carnivore
+Molly,"['Central-America', 'South-America']",Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Omnivore
+Monkfish,[],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Moray Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Salmon,"['North-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Sockeye Salmon,"['North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Albacore Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Anchovies,['Ocean'],Animalia,Chordata,Actinopterygii,Clupeiformes,Omnivore
+Angelfish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Anglerfish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiiformes,Omnivore
+Banana Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Barramundi Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Beluga Sturgeon,['Ocean'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Betta Fish (Siamese Fighting Fish),['Asia'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Black Marlin,['Ocean'],Animalia,Chordata,Actinopterygii,Istiophoriformes,Omnivore
+Bluefin Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Bonito Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Bowfin,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Amiiformes,Carnivore
+Chinese Paddlefish,['Asia'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Chinook Salmon,['Ocean'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Clownfish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Conger Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Crucian Carp,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Danios,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Dragonfish,['Data Deficient'],Animalia,Chordata,Actinopterygii,Syngnathiformes and Stomiiformes,Carnivore
+Fangtooth,['Ocean'],Animalia,Chordata,Actinopterygii,Beryciformes,Carnivore
+Flounder,['Ocean'],Animalia,Chordata,Actinopterygii,Pleuronectiformes,Carnivore
+Flowerhorn Fish,"['Asia', 'North-America']",Animalia,Chordata,Actinopterygii,Cichliformes,Omnivore
+Fluke Fish (summer flounder),['Ocean'],Animalia,Chordata,Actinopterygii,Pleuronectiformes,Omnivore
+Flying Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Beloniformes,Omnivore
+Garden Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Herring,['Ocean'],Animalia,Chordata,Actinopterygii,Clupeiformes,Carnivore
+Keta Salmon,['Ocean'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Lake Sturgeon,[],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Lawnmower Blenny,"['Africa', 'Oceania']",Animalia,Chordata,Actinopterygii,Blenniiformes,Herbivore
+Lionfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Carnivore
+Longnose Gar,['North-America'],Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Mahi Mahi (Dolphin Fish),"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Carangiformes,Omnivore
+Mekong Giant Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Herbivore
+Mola mola (Ocean Sunfish),['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Carnivore
+Monkfish,[],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Needlefish,"['Africa', 'Asia', 'Central-America', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Actinopterygii,Beloniformes,Carnivore
+Piranha,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Ribbon Eel,"['Africa', 'Asia', 'Oceania']",Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Salmon,"['North-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Sardines,['Ocean'],Animalia,Chordata,Actinopterygii,Clupeiformes,Omnivore
+Scorpion Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Sea Dragon,"['Ocean', 'Oceania']",Animalia,Chordata,Actinopterygii,Syngnathiformes,Carnivore
+Skipjack Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Sockeye Salmon,"['North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Sturgeon,['Ocean'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Surgeonfish,"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Acanthuriformes,Herbivore
+Tang,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Tarpon,['Ocean'],Animalia,Chordata,Actinopterygii,Elopiformes,Carnivore
+Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Omnivore
+Walking Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Yellowfin Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Albacore Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Alligator Gar,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Anchovies,['Ocean'],Animalia,Chordata,Actinopterygii,Clupeiformes,Omnivore
+Beluga Sturgeon,['Ocean'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Blobfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Bonito Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Bowfin,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Amiiformes,Carnivore
+Boxfish,['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Omnivore
+Bull Trout,['North-America'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Chinook Salmon,['Ocean'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Clownfish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Cobia Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Carangiformes,Carnivore
+Codfish,['Ocean'],Animalia,Chordata,Actinopterygii,Gadiformes,Carnivore
+Conger Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Danios,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Dragonfish,['Data Deficient'],Animalia,Chordata,Actinopterygii,Syngnathiformes and Stomiiformes,Carnivore
+Escolar,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Fangtooth,['Ocean'],Animalia,Chordata,Actinopterygii,Beryciformes,Carnivore
+Florida Gar,['North-America'],Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Flounder,['Ocean'],Animalia,Chordata,Actinopterygii,Pleuronectiformes,Carnivore
+Flowerhorn Fish,"['Asia', 'North-America']",Animalia,Chordata,Actinopterygii,Cichliformes,Omnivore
+Fluke Fish (summer flounder),['Ocean'],Animalia,Chordata,Actinopterygii,Pleuronectiformes,Omnivore
+Football Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Frogfish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiformes,Carnivore
+Ghost Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Silurormes,Carnivore
+Goldfish,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Grouper,"['Africa', 'Central-America', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Haddock,['Ocean'],Animalia,Chordata,Actinopterygii,Gadiformes,Carnivore
+Keta Salmon,['Ocean'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Koi Fish,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Lake Sturgeon,[],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Lawnmower Blenny,"['Africa', 'Oceania']",Animalia,Chordata,Actinopterygii,Blenniiformes,Herbivore
+Lionfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Carnivore
+Loach,"['Asia', 'Europe', 'North-America']",Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Longnose Gar,['North-America'],Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Mahi Mahi (Dolphin Fish),"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Carangiformes,Omnivore
+Mekong Giant Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Herbivore
+Mojarra,"['Central-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Mola mola (Ocean Sunfish),['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Carnivore
+Molly,"['Central-America', 'South-America']",Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Omnivore
+Monkfish,[],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Moray Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Oscar Fish,"['Europe', 'North-America', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Oyster Toadfish,['Ocean'],Animalia,Chordata,Actinopterygii,Batrachoidiformes,Omnivore
+Parrotfish,['Ocean'],Animalia,Chordata,Actinopterygii,Labriformes,Herbivore
+Ribbon Eel,"['Africa', 'Asia', 'Oceania']",Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Rockfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Salmon,"['North-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Scorpion Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Sea Dragon,"['Ocean', 'Oceania']",Animalia,Chordata,Actinopterygii,Syngnathiformes,Carnivore
+Seahorse,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Actinopterygii,Syngnathiformes,Omnivore
+Silver Dollar,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Sockeye Salmon,"['North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Spotted Gar,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Sturgeon,['Ocean'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Surgeonfish,"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Acanthuriformes,Herbivore
+Tarpon,['Ocean'],Animalia,Chordata,Actinopterygii,Elopiformes,Carnivore
+Telescope Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Aulopiformes,Omnivore
+Toadfish,['Ocean'],Animalia,Chordata,Actinopterygii,Batrachoidiformes,Carnivore
+Trout,"['Asia', 'Europe', 'North-America']",Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Wahoo Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Wolf Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Wolffish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Yellowfin Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Zebra Pleco,['South-America'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Arapaima,['South-America'],Animalia,Chordata,Actinopterygii,Osteoglossiformes,Omnivore
+Carp,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Chinese Paddlefish,['Asia'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Crappie Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Crucian Carp,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Grass Carp,"['Asia', 'Eurasia']",Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Grouper,"['Africa', 'Central-America', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Guppy,"['Central-America', 'South-America']",Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Omnivore
+Lumpfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Carnivore
+Mahi Mahi (Dolphin Fish),"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Carangiformes,Omnivore
+Paddlefish,"['Asia', 'North-America']",Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Parrotfish,['Ocean'],Animalia,Chordata,Actinopterygii,Labriformes,Herbivore
+Pike Fish,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Actinopterygii,Esociformes,Carnivore
+Pipefish,['Ocean'],Animalia,Chordata,Actinopterygii,Syngnathiformes,Carnivore
+Piranha,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Pufferfish,['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Carnivore
+Red-Lipped Batfish,['South-America'],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Scorpion Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Skipjack Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Spotted Gar,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Tarpon,['Ocean'],Animalia,Chordata,Actinopterygii,Elopiformes,Carnivore
+Telescope Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Aulopiformes,Omnivore
+Zebra Pleco,['South-America'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Squirrelfish,['Ocean'],Animalia,Chordata,Actinopterygii,Beryciformes,Carnivore
+Albacore Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Alligator Gar,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Anglerfish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiiformes,Omnivore
+Arapaima,['South-America'],Animalia,Chordata,Actinopterygii,Osteoglossiformes,Omnivore
+Barb,"['Africa', 'Asia', 'Eurasia', 'South-America']",Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Barracuda,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Barramundi Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Beluga Sturgeon,['Ocean'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Bichir,['Africa'],Animalia,Chordata,Actinopterygii,Polypteriformes,Carnivore
+Black Marlin,['Ocean'],Animalia,Chordata,Actinopterygii,Istiophoriformes,Omnivore
+Bull Trout,['North-America'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Butterfly Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Carp,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Conger Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Crappie Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Crucian Carp,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Dragonfish,['Data Deficient'],Animalia,Chordata,Actinopterygii,Syngnathiformes and Stomiiformes,Carnivore
+Drum Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Electric Catfish,['Africa'],Animalia,Chordata,Actinopterygii,Siluriformes,Carnivore
+Electric Eel,['South-America'],Animalia,Chordata,Actinopterygii,Gymnotiformes,Carnivore
+Escolar,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Fire Eel,['Asia'],Animalia,Chordata,Actinopterygii,Synbranchiformes,Omnivore
+Florida Gar,['North-America'],Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Flounder,['Ocean'],Animalia,Chordata,Actinopterygii,Pleuronectiformes,Carnivore
+Flowerhorn Fish,"['Asia', 'North-America']",Animalia,Chordata,Actinopterygii,Cichliformes,Omnivore
+Fluke Fish (summer flounder),['Ocean'],Animalia,Chordata,Actinopterygii,Pleuronectiformes,Omnivore
+Freshwater Eel,"['Africa', 'Asia', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Frogfish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiformes,Carnivore
+Gar,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Garden Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Grass Carp,"['Asia', 'Eurasia']",Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Grouper,"['Africa', 'Central-America', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Hardhead Catfish,['Ocean'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Herring,['Ocean'],Animalia,Chordata,Actinopterygii,Clupeiformes,Carnivore
+Lake Sturgeon,[],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Lawnmower Blenny,"['Africa', 'Oceania']",Animalia,Chordata,Actinopterygii,Blenniiformes,Herbivore
+Lizardfish,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Actinopterygii,Aulopiformes,Carnivore
+Longnose Gar,['North-America'],Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Mojarra,"['Central-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Moray Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Oscar Fish,"['Europe', 'North-America', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Oyster Toadfish,['Ocean'],Animalia,Chordata,Actinopterygii,Batrachoidiformes,Omnivore
+Parrotfish,['Ocean'],Animalia,Chordata,Actinopterygii,Labriformes,Herbivore
+Piranha,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Pufferfish,['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Carnivore
+Red-Lipped Batfish,['South-America'],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Redtail Catfish,['South-America'],Animalia,Chordata,Actinopterygii,Siluriformes,Carnivore
+Ribbon Eel,"['Africa', 'Asia', 'Oceania']",Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Rockfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Sardines,['Ocean'],Animalia,Chordata,Actinopterygii,Clupeiformes,Omnivore
+Scorpion Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Sea Dragon,"['Ocean', 'Oceania']",Animalia,Chordata,Actinopterygii,Syngnathiformes,Carnivore
+Seahorse,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Actinopterygii,Syngnathiformes,Omnivore
+Silver Dollar,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Spotted Gar,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Squirrelfish,['Ocean'],Animalia,Chordata,Actinopterygii,Beryciformes,Carnivore
+Stargazer Fish,"['North-America', 'Ocean', 'Oceania']",Animalia,Chordata,Actinopterygii,Trachiniformes,Omnivore
+Sturgeon,['Ocean'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Sucker Fish,[],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Surgeonfish,"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Acanthuriformes,Herbivore
+Tarpon,['Ocean'],Animalia,Chordata,Actinopterygii,Elopiformes,Carnivore
+Tetra,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Tire Track Eel,['Asia'],Animalia,Chordata,Actinopterygii,Synbranchiformes,Carnivore
+Trout,"['Asia', 'Europe', 'North-America']",Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Wrasse,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+X-Ray Tetra,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Zebra Pleco,['South-America'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Anchovies,['Ocean'],Animalia,Chordata,Actinopterygii,Clupeiformes,Omnivore
+Angelfish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Anglerfish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiiformes,Omnivore
+Barramundi Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Beluga Sturgeon,['Ocean'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Betta Fish (Siamese Fighting Fish),['Asia'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Blobfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Blue Catfish,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Bonito Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Boxfish,['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Omnivore
+Butterfly Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Chinese Paddlefish,['Asia'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Chinook Salmon,['Ocean'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Clownfish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Cobia Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Carangiformes,Carnivore
+Codfish,['Ocean'],Animalia,Chordata,Actinopterygii,Gadiformes,Carnivore
+Crappie Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Danios,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Discus,['South-America'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Dragonfish,['Data Deficient'],Animalia,Chordata,Actinopterygii,Syngnathiformes and Stomiiformes,Carnivore
+Drum Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Electric Catfish,['Africa'],Animalia,Chordata,Actinopterygii,Siluriformes,Carnivore
+Escolar,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Flowerhorn Fish,"['Asia', 'North-America']",Animalia,Chordata,Actinopterygii,Cichliformes,Omnivore
+Fluke Fish (summer flounder),['Ocean'],Animalia,Chordata,Actinopterygii,Pleuronectiformes,Omnivore
+Flying Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Beloniformes,Omnivore
+Football Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Freshwater Eel,"['Africa', 'Asia', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Frogfish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiformes,Carnivore
+Ghost Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Silurormes,Carnivore
+Goldfish,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Grass Carp,"['Asia', 'Eurasia']",Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Hardhead Catfish,['Ocean'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Keta Salmon,['Ocean'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Koi Fish,['Asia'],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Lake Sturgeon,[],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Lionfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Carnivore
+Lizardfish,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Actinopterygii,Aulopiformes,Carnivore
+Longnose Gar,['North-America'],Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Lumpfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Carnivore
+Mahi Mahi (Dolphin Fish),"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Carangiformes,Omnivore
+Mekong Giant Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Herbivore
+Milkfish,"['Asia', 'Ocean']",Animalia,Chordata,Actinopterygii,Gonorhynchiformes,Omnivore
+Mola mola (Ocean Sunfish),['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Carnivore
+Monkfish,[],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Needlefish,"['Africa', 'Asia', 'Central-America', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Actinopterygii,Beloniformes,Carnivore
+Oscar Fish,"['Europe', 'North-America', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Oyster Toadfish,['Ocean'],Animalia,Chordata,Actinopterygii,Batrachoidiformes,Omnivore
+Paddlefish,"['Asia', 'North-America']",Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Parrotfish,['Ocean'],Animalia,Chordata,Actinopterygii,Labriformes,Herbivore
+Pike Fish,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Actinopterygii,Esociformes,Carnivore
+Pipefish,['Ocean'],Animalia,Chordata,Actinopterygii,Syngnathiformes,Carnivore
+Pufferfish,['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Carnivore
+Red-Lipped Batfish,['South-America'],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Redtail Catfish,['South-America'],Animalia,Chordata,Actinopterygii,Siluriformes,Carnivore
+Rockfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Salmon,"['North-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Sardines,['Ocean'],Animalia,Chordata,Actinopterygii,Clupeiformes,Omnivore
+Scorpion Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Omnivore
+Sea Dragon,"['Ocean', 'Oceania']",Animalia,Chordata,Actinopterygii,Syngnathiformes,Carnivore
+Seahorse,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Actinopterygii,Syngnathiformes,Omnivore
+Silver Dollar,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Skipjack Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Sockeye Salmon,"['North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Spotted Gar,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Squirrelfish,['Ocean'],Animalia,Chordata,Actinopterygii,Beryciformes,Carnivore
+Stargazer Fish,"['North-America', 'Ocean', 'Oceania']",Animalia,Chordata,Actinopterygii,Trachiniformes,Omnivore
+Sturgeon,['Ocean'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Sucker Fish,[],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Surgeonfish,"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Acanthuriformes,Herbivore
+Swai Fish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Telescope Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Aulopiformes,Omnivore
+Toadfish,['Ocean'],Animalia,Chordata,Actinopterygii,Batrachoidiformes,Carnivore
+Wahoo Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Walking Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Walleye Fish,['North-America'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Wels Catfish,['Europe'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Wolffish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Wrasse,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Albacore Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Alligator Gar,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Beluga Sturgeon,['Ocean'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Betta Fish (Siamese Fighting Fish),['Asia'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Blue Catfish,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Bluefin Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Bonito Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Bull Trout,['North-America'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Butterfly Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Electric Catfish,['Africa'],Animalia,Chordata,Actinopterygii,Siluriformes,Carnivore
+Electric Eel,['South-America'],Animalia,Chordata,Actinopterygii,Gymnotiformes,Carnivore
+Fangtooth,['Ocean'],Animalia,Chordata,Actinopterygii,Beryciformes,Carnivore
+Football Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Freshwater Eel,"['Africa', 'Asia', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Ghost Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Silurormes,Carnivore
+Hardhead Catfish,['Ocean'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Keta Salmon,['Ocean'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Lake Sturgeon,[],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Mekong Giant Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Herbivore
+Oyster Toadfish,['Ocean'],Animalia,Chordata,Actinopterygii,Batrachoidiformes,Omnivore
+Parrotfish,['Ocean'],Animalia,Chordata,Actinopterygii,Labriformes,Herbivore
+Red-Lipped Batfish,['South-America'],Animalia,Chordata,Actinopterygii,Lophiiformes,Carnivore
+Redtail Catfish,['South-America'],Animalia,Chordata,Actinopterygii,Siluriformes,Carnivore
+Skipjack Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Spotted Gar,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Lepisosteiformes,Carnivore
+Stargazer Fish,"['North-America', 'Ocean', 'Oceania']",Animalia,Chordata,Actinopterygii,Trachiniformes,Omnivore
+Sturgeon,['Ocean'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Tang,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Tarpon,['Ocean'],Animalia,Chordata,Actinopterygii,Elopiformes,Carnivore
+Telescope Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Aulopiformes,Omnivore
+Tetra,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Tire Track Eel,['Asia'],Animalia,Chordata,Actinopterygii,Synbranchiformes,Carnivore
+Toadfish,['Ocean'],Animalia,Chordata,Actinopterygii,Batrachoidiformes,Carnivore
+Trout,"['Asia', 'Europe', 'North-America']",Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Omnivore
+Walking Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Wels Catfish,['Europe'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+X-Ray Tetra,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Yellowfin Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Albacore Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Barracuda,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Barramundi Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Beluga Sturgeon,['Ocean'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Blue Catfish,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Bluefin Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Bluegill,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Bull Trout,['North-America'],Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Butterfly Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Crucian Carp,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Discus,['South-America'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Drum Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Flounder,['Ocean'],Animalia,Chordata,Actinopterygii,Pleuronectiformes,Carnivore
+Fluke Fish (summer flounder),['Ocean'],Animalia,Chordata,Actinopterygii,Pleuronectiformes,Omnivore
+Grouper,"['Africa', 'Central-America', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Guppy,"['Central-America', 'South-America']",Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Omnivore
+Lake Sturgeon,[],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Lumpfish,['Ocean'],Animalia,Chordata,Actinopterygii,Scorpaeniformes,Carnivore
+Mola mola (Ocean Sunfish),['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Carnivore
+Pufferfish,['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Carnivore
+Skipjack Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Squirrelfish,['Ocean'],Animalia,Chordata,Actinopterygii,Beryciformes,Carnivore
+Sturgeon,['Ocean'],Animalia,Chordata,Actinopterygii,Acipenseriformes,Carnivore
+Sucker Fish,[],Animalia,Chordata,Actinopterygii,Cypriniformes,Omnivore
+Surgeonfish,"['Central-America', 'North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Acanthuriformes,Herbivore
+Trout,"['Asia', 'Europe', 'North-America']",Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Omnivore
+Yellowfin Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Anchovies,['Ocean'],Animalia,Chordata,Actinopterygii,Clupeiformes,Omnivore
+Silver Dollar,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Bowfin,"['Central-America', 'North-America']",Animalia,Chordata,Actinopterygii,Amiiformes,Carnivore
+Clownfish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Flowerhorn Fish,"['Asia', 'North-America']",Animalia,Chordata,Actinopterygii,Cichliformes,Omnivore
+Freshwater Eel,"['Africa', 'Asia', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Lawnmower Blenny,"['Africa', 'Oceania']",Animalia,Chordata,Actinopterygii,Blenniiformes,Herbivore
+Swai Fish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Wahoo Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Walking Catfish,['Asia'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Walleye Fish,['North-America'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Wels Catfish,['Europe'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore
+Wolf Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Wolffish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Wrasse,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+Yellowfin Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Boxfish,['Ocean'],Animalia,Chordata,Actinopterygii,Tetraodontiformes,Omnivore
+X-Ray Tetra,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Butterfly Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Perciformes,Omnivore
+Flying Fish,['Ocean'],Animalia,Chordata,Actinopterygii,Beloniformes,Omnivore
+Guppy,"['Central-America', 'South-America']",Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Omnivore
+Lawnmower Blenny,"['Africa', 'Oceania']",Animalia,Chordata,Actinopterygii,Blenniiformes,Herbivore
+Molly,"['Central-America', 'South-America']",Animalia,Chordata,Actinopterygii,Cyprinodontiformes,Omnivore
+Moray Eel,['Ocean'],Animalia,Chordata,Actinopterygii,Anguilliformes,Carnivore
+Oyster Toadfish,['Ocean'],Animalia,Chordata,Actinopterygii,Batrachoidiformes,Omnivore
+Sockeye Salmon,"['North-America', 'Ocean']",Animalia,Chordata,Actinopterygii,Salmoniformes,Carnivore
+Walleye Fish,['North-America'],Animalia,Chordata,Actinopterygii,Perciformes,Carnivore
+X-Ray Tetra,['South-America'],Animalia,Chordata,Actinopterygii,Characiformes,Omnivore
+Yellowfin Tuna,['Ocean'],Animalia,Chordata,Actinopterygii,Scombriformes,Carnivore
+Lizardfish,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Actinopterygii,Aulopiformes,Carnivore
+Stargazer Fish,"['North-America', 'Ocean', 'Oceania']",Animalia,Chordata,Actinopterygii,Trachiniformes,Omnivore
+Zebra Pleco,['South-America'],Animalia,Chordata,Actinopterygii,Siluriformes,Omnivore

@@ -1,0 +1,1525 @@
+name,locations,taxonomy_kingdom,taxonomy_phylum,taxonomy_class,characteristics_diet
+Adelie Penguin,"['Antarctica', 'Asia', 'Eurasia', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+African Grey Parrot,['Africa'],Animalia,Chordata,Aves,Herbivore
+African Penguin,"['Africa', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Albatross,"['Africa', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Amazon Parrot,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Herbivore
+American Robin,"['Central-America', 'Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Avocet,"['Asia', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Bald Eagle,['North-America'],Animalia,Chordata,Aves,Carnivore
+Barn Owl,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Barn Swallow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Barred Owl,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Baya,['Asia'],Animalia,Chordata,Aves,Omnivore
+Bearded Vulture,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Bird Of Paradise,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Black-Capped Chickadee,['North-America'],Animalia,Chordata,Aves,Omnivore
+Blackpoll Warbler,"['Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Blue grosbeak,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Blue Jay,['North-America'],Animalia,Chordata,Aves,Omnivore
+Budgerigar,['Oceania'],Animalia,Chordata,Aves,Omnivore
+Carolina Parakeet,['North-America'],Animalia,Chordata,Aves,Omnivore
+Cassowary,['Oceania'],Animalia,Chordata,Aves,Omnivore
+Chickadee,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Chinstrap Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Chipping Sparrow,['North-America'],Animalia,Chordata,Aves,Omnivore
+Cockatiel,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Cockatoo,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Common Buzzard,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Common Raven,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Cooper’s Hawk,"['Central-America', 'North-America']",Animalia,Hemichordata,Aves,Carnivore
+Crane,"['Africa', 'Asia', 'Eurasia', 'Europe', 'North-America', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Eagle,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Eastern Bluebird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Eastern Phoebe,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Eclectus Parrot,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Egyptian Goose,['Africa'],Animalia,Chordata,Aves,Omnivore
+Elegant Tern,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Eurasian Jay,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Eurasian Nuthatch,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+European Bee-Eater,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+European Robin,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Falcon,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Ferruginous Hawk,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Flamingo,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Frigatebird,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Galapagos Penguin,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Golden Masked Owl,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Goshawk,"['Africa', 'Central-America', 'Eurasia', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Gouldian Finch,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Great Blue Heron,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Great Crested Flycatcher,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Great Egret,"['Africa', 'Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Green Bee-Eater,"['Africa', 'Asia', 'Eurasia']",Animalia,Chordata,Aves,Omnivore
+Guinea Fowl,['Africa'],Animalia,Chordata,Aves,Omnivore
+Harpy Eagle,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Harris Hawk,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Hawaiian Crow,['Extinct in the Wild'],Animalia,Chordata,Aves,Omnivore
+Hawaiian Goose,['North-America'],Animalia,Chordata,Aves,Herbivore
+Honey Buzzard,"['Asia', 'Eurasia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+House Sparrow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Jacana,"['Africa', 'Asia', 'Central-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Jackdaw,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Kakapo,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Keel-Billed Toucan,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Kookaburra,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Kori Bustard,['Africa'],Animalia,Chordata,Aves,Omnivore
+Lappet-faced Vulture,"['Africa', 'Asia']",Animalia,Chordata,Aves,Carnivore
+Long-Eared Owl,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Long-Tailed Tit,"['Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Macaroni Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Macaw,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Magellanic Penguin,"['Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Magpie,"['Africa', 'Asia', 'Eurasia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Mallard,"['Africa', 'Asia', 'Central-America', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Marabou Stork,['Africa'],Animalia,Chordata,Aves,Omnivore
+Mexican Eagle (Northern crested caracara),"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Mountain Bluebird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Myna Bird,"['Africa', 'Asia', 'North-America', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Nicobar pigeon,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Nightingale,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Northern Cardinal,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Orange-Crowned Warbler,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Ortolan Bunting,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Parakeet,"['Africa', 'Asia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Parrot,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Parrotlet,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Peacock,"['Africa', 'Asia']",Animalia,Chordata,Aves,Omnivore
+Pelican,['Least Concern'],Animalia,Chordata,Aves,Omnivore
+Peregrine Falcon,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Pesquet’s Parrot (Dracula Parrot),['Oceania'],Animalia,Chordata,Aves,Herbivore
+Pheasant,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Pileated Woodpecker,['North-America'],Animalia,Chordata,Aves,Omnivore
+Quail,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Quetzal,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Red-Billed Quelea Bird,['Africa'],Animalia,Chordata,Aves,Omnivore
+Red-Headed Vulture,['Asia'],Animalia,Chordata,Aves,Carnivore
+Red-winged blackbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Rose-breasted Grosbeak,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Roseate Spoonbill,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Royal Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Ruby-Throated Hummingbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Savannah Sparrow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Scarlet Macaw,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Sea Eagle,"['Africa', 'Antarctica', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Seagull,"['Africa', 'Antarctica', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Senegal Parrot,['Africa'],Animalia,Chordata,Aves,Herbivore
+Song Sparrow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Sparrow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Sparrowhawk,"['Africa', 'Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Spixs Macaw,['Extinct in the Wild'],Animalia,Chordata,Aves,Omnivore
+Swan,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Tawny Owl,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Toucan,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Tree swallow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Umbrellabird,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Ural owl,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Wandering Albatross,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Weaver Bird,"['Africa', 'Asia']",Animalia,Chordata,Aves,Omnivore
+Whinchat,"['Africa', 'Europe']",Animalia,Chordata,Aves,Omnivore
+White-Tailed Eagle,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Whooping Crane,['North-America'],Animalia,Chordata,Aves,Omnivore
+Willow Warbler,"['Africa', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Zebra Finch,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Albatross,"['Africa', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+American Robin,"['Central-America', 'Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Bald Eagle,['North-America'],Animalia,Chordata,Aves,Carnivore
+Barn Owl,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Barn Swallow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Barred Owl,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Baya,['Asia'],Animalia,Chordata,Aves,Omnivore
+Bearded Vulture,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Bird,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Bird Of Paradise,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Black-Capped Chickadee,['North-America'],Animalia,Chordata,Aves,Omnivore
+Blackpoll Warbler,"['Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Blue grosbeak,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Blue Jay,['North-America'],Animalia,Chordata,Aves,Omnivore
+Blue Tit,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Bobolink,"['North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Booby,"['Central-America', 'Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Budgerigar,['Oceania'],Animalia,Chordata,Aves,Omnivore
+Burrowing Owl,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Common Buzzard,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Eastern Bluebird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Eastern Phoebe,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+European Bee-Eater,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+European Robin,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Frigatebird,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Great Blue Heron,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Green Bee-Eater,"['Africa', 'Asia', 'Eurasia']",Animalia,Chordata,Aves,Omnivore
+Honey Buzzard,"['Asia', 'Eurasia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Hornbill,"['Africa', 'Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Humboldt Penguin,"['Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Hummingbird,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Ibis,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Ivory-billed woodpecker,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Keel-Billed Toucan,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Kookaburra,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Kori Bustard,['Africa'],Animalia,Chordata,Aves,Omnivore
+Lyrebird,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Marabou Stork,['Africa'],Animalia,Chordata,Aves,Omnivore
+Mountain Bluebird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Myna Bird,"['Africa', 'Asia', 'North-America', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Nicobar pigeon,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Orange-Crowned Warbler,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Ortolan Bunting,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Red-Billed Quelea Bird,['Africa'],Animalia,Chordata,Aves,Omnivore
+Red-winged blackbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Robin,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Rose-breasted Grosbeak,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Roseate Spoonbill,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Ruby-Throated Hummingbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Shoebill Stork,['Africa'],Animalia,Chordata,Aves,Carnivore
+Tropicbird,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Umbrellabird,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Wandering Albatross,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Weaver Bird,"['Africa', 'Asia']",Animalia,Chordata,Aves,Omnivore
+Willow Warbler,"['Africa', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Zebra Finch,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+African Grey Parrot,['Africa'],Animalia,Chordata,Aves,Herbivore
+African Penguin,"['Africa', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+American Robin,"['Central-America', 'Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Avocet,"['Asia', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Black-Capped Chickadee,['North-America'],Animalia,Chordata,Aves,Omnivore
+Blackpoll Warbler,"['Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Carolina Parakeet,['North-America'],Animalia,Chordata,Aves,Omnivore
+Cassowary,['Oceania'],Animalia,Chordata,Aves,Omnivore
+Chickadee,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Chicken,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Chinese Geese,"['Asia', 'Eurasia']",Animalia,Chordata,Aves,Herbivore
+Chinstrap Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Chipping Sparrow,['North-America'],Animalia,Chordata,Aves,Omnivore
+Cinereous Vulture,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Cockatiel,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Cockatoo,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Common Buzzard,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Common Loon,"['Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Common Raven,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Cooper’s Hawk,"['Central-America', 'North-America']",Animalia,Hemichordata,Aves,Carnivore
+Crane,"['Africa', 'Asia', 'Eurasia', 'Europe', 'North-America', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Crested Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Crow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Cuckoo,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Duck,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Dunnock,"['Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Eclectus Parrot,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Eurasian Nuthatch,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Falcon,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Gouldian Finch,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Great Crested Flycatcher,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Hawaiian Crow,['Extinct in the Wild'],Animalia,Chordata,Aves,Omnivore
+House Finch,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Ivory-billed woodpecker,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Jacana,"['Africa', 'Asia', 'Central-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Jackdaw,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Keel-Billed Toucan,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Lappet-faced Vulture,"['Africa', 'Asia']",Animalia,Chordata,Aves,Carnivore
+Macaroni Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Macaw,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Magellanic Penguin,"['Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Mexican Eagle (Northern crested caracara),"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Nicobar pigeon,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Northern Cardinal,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Orange-Crowned Warbler,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Ostrich,['Africa'],Animalia,Chordata,Aves,Omnivore
+Peacock,"['Africa', 'Asia']",Animalia,Chordata,Aves,Omnivore
+Pelican,['Least Concern'],Animalia,Chordata,Aves,Omnivore
+Peregrine Falcon,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Pesquet’s Parrot (Dracula Parrot),['Oceania'],Animalia,Chordata,Aves,Herbivore
+Pileated Woodpecker,['North-America'],Animalia,Chordata,Aves,Omnivore
+Purple Finch,['North-America'],Animalia,Chordata,Aves,Omnivore
+Red Finch,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Red-winged blackbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Rockhopper Penguin,"['Antarctica', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Scarlet Macaw,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Silkie Chicken,['Asia'],Animalia,Chordata,Aves,Omnivore
+Spixs Macaw,['Extinct in the Wild'],Animalia,Chordata,Aves,Omnivore
+Toucan,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Treecreeper,"['Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Tropicbird,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Whinchat,"['Africa', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Whooping Crane,['North-America'],Animalia,Chordata,Aves,Omnivore
+Woodpecker,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Zebra Finch,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Adelie Penguin,"['Antarctica', 'Asia', 'Eurasia', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Bald Eagle,['North-America'],Animalia,Chordata,Aves,Carnivore
+Barred Owl,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Bearded Vulture,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Bird,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Bird Of Paradise,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Black-Capped Chickadee,['North-America'],Animalia,Chordata,Aves,Omnivore
+Budgerigar,['Oceania'],Animalia,Chordata,Aves,Omnivore
+Chickadee,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Common Buzzard,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Crested Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Dodo,['Extinct'],Animalia,Chordata,Aves,Omnivore
+Duck,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Dunnock,"['Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Eastern Bluebird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Frigatebird,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Golden Masked Owl,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Golden Oriole,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Gouldian Finch,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Great Crested Flycatcher,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Honey Buzzard,"['Asia', 'Eurasia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Humboldt Penguin,"['Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Hummingbird,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Ivory-billed woodpecker,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Jackdaw,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Keel-Billed Toucan,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Kori Bustard,['Africa'],Animalia,Chordata,Aves,Omnivore
+Lappet-faced Vulture,"['Africa', 'Asia']",Animalia,Chordata,Aves,Carnivore
+Long-Eared Owl,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Long-Tailed Tit,"['Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Lyrebird,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Mallard,"['Africa', 'Asia', 'Central-America', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Mexican Eagle (Northern crested caracara),"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Mountain Bluebird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Mourning Dove,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Myna Bird,"['Africa', 'Asia', 'North-America', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Northern Cardinal,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Orange-Crowned Warbler,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Pesquet’s Parrot (Dracula Parrot),['Oceania'],Animalia,Chordata,Aves,Herbivore
+Pileated Woodpecker,['North-America'],Animalia,Chordata,Aves,Omnivore
+Red Finch,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Red-Billed Quelea Bird,['Africa'],Animalia,Chordata,Aves,Omnivore
+Red-Headed Vulture,['Asia'],Animalia,Chordata,Aves,Carnivore
+Red-winged blackbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Ringed Kingfisher,['North-America'],Animalia,Chordata,Aves,Carnivore
+Rose-breasted Grosbeak,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Ruby-Throated Hummingbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Ruddy Turnstone,"['Africa', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Tropicbird,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Umbrellabird,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Wandering Albatross,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Weaver Bird,"['Africa', 'Asia']",Animalia,Chordata,Aves,Omnivore
+White-Tailed Eagle,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Woodpecker,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Yellow-Eyed Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Adelie Penguin,"['Antarctica', 'Asia', 'Eurasia', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+African Grey Parrot,['Africa'],Animalia,Chordata,Aves,Herbivore
+African Penguin,"['Africa', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+American Robin,"['Central-America', 'Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Avocet,"['Asia', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Bald Eagle,['North-America'],Animalia,Chordata,Aves,Carnivore
+Barred Owl,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Bearded Vulture,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Bird Of Paradise,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Black-Capped Chickadee,['North-America'],Animalia,Chordata,Aves,Omnivore
+Blackpoll Warbler,"['Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Blue grosbeak,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Blue Jay,['North-America'],Animalia,Chordata,Aves,Omnivore
+Blue Tit,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Budgerigar,['Oceania'],Animalia,Chordata,Aves,Omnivore
+Carolina Parakeet,['North-America'],Animalia,Chordata,Aves,Omnivore
+Chickadee,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Chicken,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Chinese Geese,"['Asia', 'Eurasia']",Animalia,Chordata,Aves,Herbivore
+Chinstrap Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Cinereous Vulture,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Cockatiel,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Common Raven,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Cooper’s Hawk,"['Central-America', 'North-America']",Animalia,Hemichordata,Aves,Carnivore
+Crane,"['Africa', 'Asia', 'Eurasia', 'Europe', 'North-America', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Crested Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Eagle,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Eastern Bluebird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Eastern Phoebe,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Eclectus Parrot,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Egyptian Goose,['Africa'],Animalia,Chordata,Aves,Omnivore
+Elegant Tern,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Emperor Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Emu,['Oceania'],Animalia,Chordata,Aves,Omnivore
+Eurasian Jay,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Eurasian Nuthatch,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+European Bee-Eater,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+European Robin,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Ferruginous Hawk,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Frigatebird,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Galapagos Penguin,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Gentoo Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Golden Masked Owl,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Golden Oriole,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Goose,"['Asia', 'Eurasia', 'Europe', 'North-America', 'Ocean']",Animalia,Chordata,Aves,Omnivore
+Great Blue Heron,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Great Crested Flycatcher,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Great Egret,"['Africa', 'Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Green Bee-Eater,"['Africa', 'Asia', 'Eurasia']",Animalia,Chordata,Aves,Omnivore
+Griffon Vulture,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Grouse,['Europe'],Animalia,Chordata,Aves,Omnivore
+Guinea Fowl,['Africa'],Animalia,Chordata,Aves,Omnivore
+Harpy Eagle,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Hawaiian Goose,['North-America'],Animalia,Chordata,Aves,Herbivore
+Heron,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Honey Buzzard,"['Asia', 'Eurasia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Hoopoe,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+House Finch,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+House Sparrow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+House wren,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Humboldt Penguin,"['Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Ivory-billed woodpecker,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Junglefowl,['Asia'],Animalia,Chordata,Aves,Omnivore
+Keel-Billed Toucan,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Kestrel,"['Africa', 'Asia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+King Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+King Vulture,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Kingfisher,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Lappet-faced Vulture,"['Africa', 'Asia']",Animalia,Chordata,Aves,Carnivore
+Little Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Long-Eared Owl,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Long-Tailed Tit,"['Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Lorikeet,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Lyrebird,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Macaroni Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Magellanic Penguin,"['Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Magpie,"['Africa', 'Asia', 'Eurasia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Mexican Eagle (Northern crested caracara),"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Mississippi Kite,['North-America'],Animalia,Chordata,Aves,Carnivore
+Moorhen,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Mountain Bluebird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Mourning Dove,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Nicobar pigeon,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Nightingale,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Northern Cardinal,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Orange-Crowned Warbler,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Parakeet,"['Africa', 'Asia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Parrotlet,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Peacock,"['Africa', 'Asia']",Animalia,Chordata,Aves,Omnivore
+Pelican,['Least Concern'],Animalia,Chordata,Aves,Omnivore
+Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Omnivore
+Peregrine Falcon,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Pesquet’s Parrot (Dracula Parrot),['Oceania'],Animalia,Chordata,Aves,Herbivore
+Pheasant,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Pigeon,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Pileated Woodpecker,['North-America'],Animalia,Chordata,Aves,Omnivore
+Purple Finch,['North-America'],Animalia,Chordata,Aves,Omnivore
+Quetzal,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Red Finch,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Red-Billed Quelea Bird,['Africa'],Animalia,Chordata,Aves,Omnivore
+Red-Headed Vulture,['Asia'],Animalia,Chordata,Aves,Carnivore
+Red-winged blackbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Ringed Kingfisher,['North-America'],Animalia,Chordata,Aves,Carnivore
+Rockhopper Penguin,"['Antarctica', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Rooster,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Rose-breasted Grosbeak,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Roseate Spoonbill,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Royal Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Ruby-Throated Hummingbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Ruddy Turnstone,"['Africa', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Scarlet Macaw,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Sea Eagle,"['Africa', 'Antarctica', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Seagull,"['Africa', 'Antarctica', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Senegal Parrot,['Africa'],Animalia,Chordata,Aves,Herbivore
+Shoebill Stork,['Africa'],Animalia,Chordata,Aves,Carnivore
+Silkie Chicken,['Asia'],Animalia,Chordata,Aves,Omnivore
+Tree swallow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Treecreeper,"['Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Turkey,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Umbrellabird,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Vulture,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Wandering Albatross,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Weaver Bird,"['Africa', 'Asia']",Animalia,Chordata,Aves,Omnivore
+White-Tailed Eagle,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Whooping Crane,['North-America'],Animalia,Chordata,Aves,Omnivore
+Willow Warbler,"['Africa', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Woodpecker,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Yellow-Eyed Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Zebra Finch,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+African Grey Parrot,['Africa'],Animalia,Chordata,Aves,Herbivore
+African Penguin,"['Africa', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Bird Of Paradise,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Falcon,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Ferruginous Hawk,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Flamingo,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Frigatebird,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Gouldian Finch,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Great Crested Flycatcher,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Griffon Vulture,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Guinea Fowl,['Africa'],Animalia,Chordata,Aves,Omnivore
+House Finch,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Junglefowl,['Asia'],Animalia,Chordata,Aves,Omnivore
+Kingfisher,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Lappet-faced Vulture,"['Africa', 'Asia']",Animalia,Chordata,Aves,Carnivore
+Peregrine Falcon,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Puffin,"['Eurasia', 'Europe', 'North-America', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Purple Finch,['North-America'],Animalia,Chordata,Aves,Omnivore
+Red Finch,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Ringed Kingfisher,['North-America'],Animalia,Chordata,Aves,Carnivore
+Zebra Finch,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Adelie Penguin,"['Antarctica', 'Asia', 'Eurasia', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+African Grey Parrot,['Africa'],Animalia,Chordata,Aves,Herbivore
+African Penguin,"['Africa', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Bald Eagle,['North-America'],Animalia,Chordata,Aves,Carnivore
+Blue grosbeak,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Budgerigar,['Oceania'],Animalia,Chordata,Aves,Omnivore
+Burrowing Owl,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Chinese Geese,"['Asia', 'Eurasia']",Animalia,Chordata,Aves,Herbivore
+Chinstrap Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Chipping Sparrow,['North-America'],Animalia,Chordata,Aves,Omnivore
+Crested Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Eagle,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Egyptian Goose,['Africa'],Animalia,Chordata,Aves,Omnivore
+Elegant Tern,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Emperor Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Ferruginous Hawk,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Flamingo,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Frigatebird,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Galapagos Penguin,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Gentoo Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Golden Masked Owl,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Golden Oriole,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Goose,"['Asia', 'Eurasia', 'Europe', 'North-America', 'Ocean']",Animalia,Chordata,Aves,Omnivore
+Goshawk,"['Africa', 'Central-America', 'Eurasia', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Gouldian Finch,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Great Blue Heron,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Great Crested Flycatcher,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Great Egret,"['Africa', 'Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Green Bee-Eater,"['Africa', 'Asia', 'Eurasia']",Animalia,Chordata,Aves,Omnivore
+Griffon Vulture,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Grouse,['Europe'],Animalia,Chordata,Aves,Omnivore
+Guinea Fowl,['Africa'],Animalia,Chordata,Aves,Omnivore
+Harpy Eagle,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Hawaiian Goose,['North-America'],Animalia,Chordata,Aves,Herbivore
+Humboldt Penguin,"['Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Hummingbird,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Junglefowl,['Asia'],Animalia,Chordata,Aves,Omnivore
+King Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+King Vulture,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Kingfisher,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Little Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Long-Eared Owl,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Long-Tailed Tit,"['Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Macaroni Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Magellanic Penguin,"['Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Magpie,"['Africa', 'Asia', 'Eurasia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Mexican Eagle (Northern crested caracara),"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Mourning Dove,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Nicobar pigeon,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Nightingale,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Orange-Crowned Warbler,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Ortolan Bunting,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Omnivore
+Peregrine Falcon,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Pigeon,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Red-winged blackbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Ringed Kingfisher,['North-America'],Animalia,Chordata,Aves,Carnivore
+Rockhopper Penguin,"['Antarctica', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Rose-breasted Grosbeak,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Royal Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Ruby-Throated Hummingbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Sea Eagle,"['Africa', 'Antarctica', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Seagull,"['Africa', 'Antarctica', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Senegal Parrot,['Africa'],Animalia,Chordata,Aves,Herbivore
+Song Sparrow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Song Thrush,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Uguisu,['Asia'],Animalia,Chordata,Aves,Omnivore
+Wandering Albatross,['Ocean'],Animalia,Chordata,Aves,Carnivore
+White-Tailed Eagle,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Whooping Crane,['North-America'],Animalia,Chordata,Aves,Omnivore
+Yellow-Eyed Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Black-Capped Chickadee,['North-America'],Animalia,Chordata,Aves,Omnivore
+Chickadee,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Chicken,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Chinese Geese,"['Asia', 'Eurasia']",Animalia,Chordata,Aves,Herbivore
+Chinstrap Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Chipping Sparrow,['North-America'],Animalia,Chordata,Aves,Omnivore
+Cooper’s Hawk,"['Central-America', 'North-America']",Animalia,Hemichordata,Aves,Carnivore
+Eastern Phoebe,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Eurasian Nuthatch,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Ferruginous Hawk,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Goshawk,"['Africa', 'Central-America', 'Eurasia', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Gouldian Finch,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Great Blue Heron,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Great Crested Flycatcher,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Harpy Eagle,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Harris Hawk,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Hawaiian Crow,['Extinct in the Wild'],Animalia,Chordata,Aves,Omnivore
+Hawaiian Goose,['North-America'],Animalia,Chordata,Aves,Herbivore
+Heron,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Honey Buzzard,"['Asia', 'Eurasia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Hoopoe,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Hornbill,"['Africa', 'Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+House Finch,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+House Sparrow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+House wren,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Humboldt Penguin,"['Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Hummingbird,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Kingfisher,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Mexican Eagle (Northern crested caracara),"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Moorhen,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Nightingale,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Northern Cardinal,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Ostrich,['Africa'],Animalia,Chordata,Aves,Omnivore
+Pheasant,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Purple Finch,['North-America'],Animalia,Chordata,Aves,Omnivore
+Red Finch,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Red-Headed Vulture,['Asia'],Animalia,Chordata,Aves,Carnivore
+Ringed Kingfisher,['North-America'],Animalia,Chordata,Aves,Carnivore
+Rockhopper Penguin,"['Antarctica', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Ruby-Throated Hummingbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Savannah Sparrow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Shoebill Stork,['Africa'],Animalia,Chordata,Aves,Carnivore
+Silkie Chicken,['Asia'],Animalia,Chordata,Aves,Omnivore
+Song Thrush,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Sparrowhawk,"['Africa', 'Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Thrush,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Whinchat,"['Africa', 'Europe']",Animalia,Chordata,Aves,Omnivore
+White-Tailed Eagle,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Whooping Crane,['North-America'],Animalia,Chordata,Aves,Omnivore
+Zebra Finch,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Adelie Penguin,"['Antarctica', 'Asia', 'Eurasia', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+African Grey Parrot,['Africa'],Animalia,Chordata,Aves,Herbivore
+African Penguin,"['Africa', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+American Robin,"['Central-America', 'Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Bird,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Bird Of Paradise,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Black-Capped Chickadee,['North-America'],Animalia,Chordata,Aves,Omnivore
+Blue Tit,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Bobolink,"['North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Budgerigar,['Oceania'],Animalia,Chordata,Aves,Omnivore
+Burrowing Owl,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Carolina Parakeet,['North-America'],Animalia,Chordata,Aves,Omnivore
+Chickadee,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Chicken,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Chinese Geese,"['Asia', 'Eurasia']",Animalia,Chordata,Aves,Herbivore
+Chinstrap Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Chipping Sparrow,['North-America'],Animalia,Chordata,Aves,Omnivore
+Cinereous Vulture,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Cockatiel,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Crested Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Eastern Bluebird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Egyptian Goose,['Africa'],Animalia,Chordata,Aves,Omnivore
+Emperor Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Eurasian Jay,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Eurasian Nuthatch,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+European Robin,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Ferruginous Hawk,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Flamingo,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Frigatebird,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Galapagos Penguin,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Gentoo Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Golden Oriole,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Gouldian Finch,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Griffon Vulture,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Guinea Fowl,['Africa'],Animalia,Chordata,Aves,Omnivore
+Harris Hawk,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Hawaiian Crow,['Extinct in the Wild'],Animalia,Chordata,Aves,Omnivore
+Hawaiian Goose,['North-America'],Animalia,Chordata,Aves,Herbivore
+Hornbill,"['Africa', 'Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+House Finch,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Humboldt Penguin,"['Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Hummingbird,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Ibis,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Ivory-billed woodpecker,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Keel-Billed Toucan,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+King Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+King Vulture,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Kingfisher,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Kiwi,['Oceania'],Animalia,Chordata,Aves,Omnivore
+Kori Bustard,['Africa'],Animalia,Chordata,Aves,Omnivore
+Little Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Long-Tailed Tit,"['Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Lorikeet,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Lyrebird,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Macaroni Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Magellanic Penguin,"['Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Magpie,"['Africa', 'Asia', 'Eurasia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Mexican Eagle (Northern crested caracara),"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Mississippi Kite,['North-America'],Animalia,Chordata,Aves,Carnivore
+Mountain Bluebird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Mourning Dove,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Myna Bird,"['Africa', 'Asia', 'North-America', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Nicobar pigeon,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Nightingale,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Northern Cardinal,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Ortolan Bunting,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Ostrich,['Africa'],Animalia,Chordata,Aves,Omnivore
+Pelican,['Least Concern'],Animalia,Chordata,Aves,Omnivore
+Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Omnivore
+Peregrine Falcon,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Pigeon,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Pileated Woodpecker,['North-America'],Animalia,Chordata,Aves,Omnivore
+Puffin,"['Eurasia', 'Europe', 'North-America', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Purple Finch,['North-America'],Animalia,Chordata,Aves,Omnivore
+Quail,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Red Finch,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Red-Billed Quelea Bird,['Africa'],Animalia,Chordata,Aves,Omnivore
+Red-winged blackbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Ringed Kingfisher,['North-America'],Animalia,Chordata,Aves,Carnivore
+Robin,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Rockhopper Penguin,"['Antarctica', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Roseate Spoonbill,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Royal Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Ruby-Throated Hummingbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Shoebill Stork,['Africa'],Animalia,Chordata,Aves,Carnivore
+Silkie Chicken,['Asia'],Animalia,Chordata,Aves,Omnivore
+Spixs Macaw,['Extinct in the Wild'],Animalia,Chordata,Aves,Omnivore
+Tropicbird,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Uguisu,['Asia'],Animalia,Chordata,Aves,Omnivore
+Umbrellabird,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Wandering Albatross,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Weaver Bird,"['Africa', 'Asia']",Animalia,Chordata,Aves,Omnivore
+Whinchat,"['Africa', 'Europe']",Animalia,Chordata,Aves,Omnivore
+White-Tailed Eagle,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Whooping Crane,['North-America'],Animalia,Chordata,Aves,Omnivore
+Willow Warbler,"['Africa', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Yellow-Eyed Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Zebra Finch,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Blue Jay,['North-America'],Animalia,Chordata,Aves,Omnivore
+Eurasian Jay,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Jacana,"['Africa', 'Asia', 'Central-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Jackdaw,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Junglefowl,['Asia'],Animalia,Chordata,Aves,Omnivore
+Black-Capped Chickadee,['North-America'],Animalia,Chordata,Aves,Omnivore
+Blackpoll Warbler,"['Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Blue grosbeak,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Bobolink,"['North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Carolina Parakeet,['North-America'],Animalia,Chordata,Aves,Omnivore
+Chickadee,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Chicken,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Cockatiel,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Cockatoo,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Cooper’s Hawk,"['Central-America', 'North-America']",Animalia,Hemichordata,Aves,Carnivore
+Cuckoo,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Duck,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Dunnock,"['Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Ferruginous Hawk,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Golden Masked Owl,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Goshawk,"['Africa', 'Central-America', 'Eurasia', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Harris Hawk,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Ivory-billed woodpecker,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Jackdaw,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Kakapo,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Keel-Billed Toucan,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Kestrel,"['Africa', 'Asia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+King Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+King Vulture,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Kingfisher,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Kiwi,['Oceania'],Animalia,Chordata,Aves,Omnivore
+Kookaburra,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Kori Bustard,['Africa'],Animalia,Chordata,Aves,Omnivore
+Lorikeet,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Marabou Stork,['Africa'],Animalia,Chordata,Aves,Omnivore
+Mississippi Kite,['North-America'],Animalia,Chordata,Aves,Carnivore
+Parakeet,"['Africa', 'Asia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Peacock,"['Africa', 'Asia']",Animalia,Chordata,Aves,Omnivore
+Pileated Woodpecker,['North-America'],Animalia,Chordata,Aves,Omnivore
+Red-winged blackbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Ringed Kingfisher,['North-America'],Animalia,Chordata,Aves,Carnivore
+Rockhopper Penguin,"['Antarctica', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Rose-breasted Grosbeak,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Shoebill Stork,['Africa'],Animalia,Chordata,Aves,Carnivore
+Silkie Chicken,['Asia'],Animalia,Chordata,Aves,Omnivore
+Sparrowhawk,"['Africa', 'Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Stork,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Turkey,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Woodpecker,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Adelie Penguin,"['Antarctica', 'Asia', 'Eurasia', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Albatross,"['Africa', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Bald Eagle,['North-America'],Animalia,Chordata,Aves,Carnivore
+Barn Owl,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Barn Swallow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Barred Owl,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Bearded Vulture,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Black-Capped Chickadee,['North-America'],Animalia,Chordata,Aves,Omnivore
+Blackpoll Warbler,"['Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Blue grosbeak,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Blue Jay,['North-America'],Animalia,Chordata,Aves,Omnivore
+Blue Tit,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Bobolink,"['North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Burrowing Owl,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Carolina Parakeet,['North-America'],Animalia,Chordata,Aves,Omnivore
+Cinereous Vulture,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Cockatiel,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Common Loon,"['Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Eagle,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Eastern Bluebird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Eclectus Parrot,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Elegant Tern,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Falcon,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Flamingo,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Galapagos Penguin,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Golden Masked Owl,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Golden Oriole,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Gouldian Finch,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Great Blue Heron,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Great Crested Flycatcher,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Griffon Vulture,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Guinea Fowl,['Africa'],Animalia,Chordata,Aves,Omnivore
+Harpy Eagle,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Hornbill,"['Africa', 'Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Humboldt Penguin,"['Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Ivory-billed woodpecker,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Junglefowl,['Asia'],Animalia,Chordata,Aves,Omnivore
+Keel-Billed Toucan,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Kestrel,"['Africa', 'Asia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+King Vulture,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Lappet-faced Vulture,"['Africa', 'Asia']",Animalia,Chordata,Aves,Carnivore
+Little Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Long-Eared Owl,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Long-Tailed Tit,"['Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Lorikeet,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Lyrebird,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Magellanic Penguin,"['Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Mallard,"['Africa', 'Asia', 'Central-America', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Mexican Eagle (Northern crested caracara),"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Mountain Bluebird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Nightingale,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Northern Cardinal,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Orange-Crowned Warbler,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Ortolan Bunting,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Owl,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Parrotlet,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Pelican,['Least Concern'],Animalia,Chordata,Aves,Omnivore
+Peregrine Falcon,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Pesquet’s Parrot (Dracula Parrot),['Oceania'],Animalia,Chordata,Aves,Herbivore
+Pileated Woodpecker,['North-America'],Animalia,Chordata,Aves,Omnivore
+Purple Finch,['North-America'],Animalia,Chordata,Aves,Omnivore
+Quail,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Quetzal,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Red-Billed Quelea Bird,['Africa'],Animalia,Chordata,Aves,Omnivore
+Red-Headed Vulture,['Asia'],Animalia,Chordata,Aves,Carnivore
+Red-winged blackbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Roseate Spoonbill,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Royal Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Scarlet Macaw,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Sea Eagle,"['Africa', 'Antarctica', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Seagull,"['Africa', 'Antarctica', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Senegal Parrot,['Africa'],Animalia,Chordata,Aves,Herbivore
+Shoebill Stork,['Africa'],Animalia,Chordata,Aves,Carnivore
+Silkie Chicken,['Asia'],Animalia,Chordata,Aves,Omnivore
+Snowy Owl,"['Eurasia', 'Europe', 'North-America', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Tawny Owl,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Tree swallow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Umbrellabird,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Ural owl,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Vulture,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Wandering Albatross,['Ocean'],Animalia,Chordata,Aves,Carnivore
+White-Tailed Eagle,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Willow Warbler,"['Africa', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Yellow-Eyed Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Amazon Parrot,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Herbivore
+American Robin,"['Central-America', 'Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Common Buzzard,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Common Loon,"['Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Common Raven,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Emperor Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Emu,['Oceania'],Animalia,Chordata,Aves,Omnivore
+Flamingo,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Golden Masked Owl,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Humboldt Penguin,"['Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Hummingbird,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Macaroni Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Macaw,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Magellanic Penguin,"['Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Magpie,"['Africa', 'Asia', 'Eurasia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Mallard,"['Africa', 'Asia', 'Central-America', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Marabou Stork,['Africa'],Animalia,Chordata,Aves,Omnivore
+Mexican Eagle (Northern crested caracara),"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Mississippi Kite,['North-America'],Animalia,Chordata,Aves,Carnivore
+Moorhen,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Mountain Bluebird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Mourning Dove,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Myna Bird,"['Africa', 'Asia', 'North-America', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Ruby-Throated Hummingbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Scarlet Macaw,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Spixs Macaw,['Extinct in the Wild'],Animalia,Chordata,Aves,Omnivore
+Umbrellabird,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Adelie Penguin,"['Antarctica', 'Asia', 'Eurasia', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+African Grey Parrot,['Africa'],Animalia,Chordata,Aves,Herbivore
+African Penguin,"['Africa', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Amazon Parrot,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Herbivore
+American Robin,"['Central-America', 'Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Barn Owl,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Barn Swallow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Bobolink,"['North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Burrowing Owl,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Carolina Parakeet,['North-America'],Animalia,Chordata,Aves,Omnivore
+Chicken,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Chinese Geese,"['Asia', 'Eurasia']",Animalia,Chordata,Aves,Herbivore
+Chinstrap Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Chipping Sparrow,['North-America'],Animalia,Chordata,Aves,Omnivore
+Cinereous Vulture,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Common Buzzard,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Common Loon,"['Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Common Raven,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Crane,"['Africa', 'Asia', 'Eurasia', 'Europe', 'North-America', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Crested Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Dunnock,"['Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Eastern Bluebird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Eastern Phoebe,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Egyptian Goose,['Africa'],Animalia,Chordata,Aves,Omnivore
+Elegant Tern,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Emperor Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Eurasian Jay,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Eurasian Nuthatch,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+European Bee-Eater,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+European Robin,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Falcon,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Ferruginous Hawk,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Flamingo,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Galapagos Penguin,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Gentoo Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Golden Masked Owl,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Golden Oriole,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Gouldian Finch,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Great Blue Heron,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Green Bee-Eater,"['Africa', 'Asia', 'Eurasia']",Animalia,Chordata,Aves,Omnivore
+Griffon Vulture,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Guinea Fowl,['Africa'],Animalia,Chordata,Aves,Omnivore
+Hawaiian Crow,['Extinct in the Wild'],Animalia,Chordata,Aves,Omnivore
+Hawaiian Goose,['North-America'],Animalia,Chordata,Aves,Herbivore
+Heron,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Honey Buzzard,"['Asia', 'Eurasia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Hornbill,"['Africa', 'Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+House Finch,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+House wren,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Humboldt Penguin,"['Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Hummingbird,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Jacana,"['Africa', 'Asia', 'Central-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Junglefowl,['Asia'],Animalia,Chordata,Aves,Omnivore
+Keel-Billed Toucan,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+King Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+King Vulture,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Kingfisher,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Little Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Long-Eared Owl,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Long-Tailed Tit,"['Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Macaroni Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Magellanic Penguin,"['Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Mexican Eagle (Northern crested caracara),"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Moorhen,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Mountain Bluebird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Mourning Dove,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Myna Bird,"['Africa', 'Asia', 'North-America', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Nicobar pigeon,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Nightingale,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Northern Cardinal,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Orange-Crowned Warbler,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Ortolan Bunting,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Pelican,['Least Concern'],Animalia,Chordata,Aves,Omnivore
+Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Omnivore
+Peregrine Falcon,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Pheasant,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Pigeon,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Puffin,"['Eurasia', 'Europe', 'North-America', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Purple Finch,['North-America'],Animalia,Chordata,Aves,Omnivore
+Red Finch,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Red-winged blackbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Ringed Kingfisher,['North-America'],Animalia,Chordata,Aves,Carnivore
+Robin,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Rockhopper Penguin,"['Antarctica', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Roseate Spoonbill,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Royal Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Ruby-Throated Hummingbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Ruddy Turnstone,"['Africa', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Savannah Sparrow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Senegal Parrot,['Africa'],Animalia,Chordata,Aves,Herbivore
+Silkie Chicken,['Asia'],Animalia,Chordata,Aves,Omnivore
+Snowy Owl,"['Eurasia', 'Europe', 'North-America', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Song Sparrow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Song Thrush,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Swan,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Tawny Owl,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Toucan,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Wandering Albatross,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Whinchat,"['Africa', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Whooping Crane,['North-America'],Animalia,Chordata,Aves,Omnivore
+Yellow-Eyed Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Zebra Finch,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+African Grey Parrot,['Africa'],Animalia,Chordata,Aves,Herbivore
+Albatross,"['Africa', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Amazon Parrot,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Herbivore
+American Robin,"['Central-America', 'Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Avocet,"['Asia', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Barn Owl,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Barn Swallow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Barred Owl,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Bird Of Paradise,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Blackpoll Warbler,"['Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Blue grosbeak,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Bobolink,"['North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Booby,"['Central-America', 'Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Burrowing Owl,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Carolina Parakeet,['North-America'],Animalia,Chordata,Aves,Omnivore
+Cassowary,['Oceania'],Animalia,Chordata,Aves,Omnivore
+Chipping Sparrow,['North-America'],Animalia,Chordata,Aves,Omnivore
+Cinereous Vulture,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Cockatiel,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Cockatoo,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Common Buzzard,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Common Loon,"['Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Common Raven,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Cooper’s Hawk,"['Central-America', 'North-America']",Animalia,Hemichordata,Aves,Carnivore
+Crow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Cuckoo,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Dodo,['Extinct'],Animalia,Chordata,Aves,Omnivore
+Dunnock,"['Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Eastern Phoebe,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Eclectus Parrot,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Egyptian Goose,['Africa'],Animalia,Chordata,Aves,Omnivore
+Emperor Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+European Bee-Eater,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+European Robin,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Falcon,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Ferruginous Hawk,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Flamingo,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Galapagos Penguin,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Gentoo Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Golden Masked Owl,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Golden Oriole,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Goose,"['Asia', 'Eurasia', 'Europe', 'North-America', 'Ocean']",Animalia,Chordata,Aves,Omnivore
+Goshawk,"['Africa', 'Central-America', 'Eurasia', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Gouldian Finch,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Great Blue Heron,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Griffon Vulture,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Grouse,['Europe'],Animalia,Chordata,Aves,Omnivore
+Guinea Fowl,['Africa'],Animalia,Chordata,Aves,Omnivore
+Hawaiian Crow,['Extinct in the Wild'],Animalia,Chordata,Aves,Omnivore
+Hawaiian Goose,['North-America'],Animalia,Chordata,Aves,Herbivore
+Heron,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Honey Buzzard,"['Asia', 'Eurasia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Hoopoe,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Hornbill,"['Africa', 'Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+House Finch,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+House Sparrow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+House wren,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Humboldt Penguin,"['Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Ivory-billed woodpecker,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Junglefowl,['Asia'],Animalia,Chordata,Aves,Omnivore
+Kakapo,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Keel-Billed Toucan,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Kookaburra,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Kori Bustard,['Africa'],Animalia,Chordata,Aves,Omnivore
+Long-Eared Owl,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Long-Tailed Tit,"['Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Lorikeet,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Macaroni Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Marabou Stork,['Africa'],Animalia,Chordata,Aves,Omnivore
+Mexican Eagle (Northern crested caracara),"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Moorhen,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Mountain Bluebird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Mourning Dove,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Nicobar pigeon,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Northern Cardinal,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Orange-Crowned Warbler,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Ortolan Bunting,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Ostrich,['Africa'],Animalia,Chordata,Aves,Omnivore
+Owl,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Parrot,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Parrotlet,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Peacock,"['Africa', 'Asia']",Animalia,Chordata,Aves,Omnivore
+Peregrine Falcon,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Pesquet’s Parrot (Dracula Parrot),['Oceania'],Animalia,Chordata,Aves,Herbivore
+Pigeon,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Pileated Woodpecker,['North-America'],Animalia,Chordata,Aves,Omnivore
+Potoo,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Robin,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Rockhopper Penguin,"['Antarctica', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Rooster,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Rose-breasted Grosbeak,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Roseate Spoonbill,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Royal Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Ruby-Throated Hummingbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Ruddy Turnstone,"['Africa', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Savannah Sparrow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Senegal Parrot,['Africa'],Animalia,Chordata,Aves,Herbivore
+Shoebill Stork,['Africa'],Animalia,Chordata,Aves,Carnivore
+Snowy Owl,"['Eurasia', 'Europe', 'North-America', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Song Sparrow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Song Thrush,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Sparrow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Sparrowhawk,"['Africa', 'Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Stork,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Tawny Owl,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Toucan,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Tree swallow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Tropicbird,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Ural owl,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Wandering Albatross,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Whooping Crane,['North-America'],Animalia,Chordata,Aves,Omnivore
+Willow Warbler,"['Africa', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Woodpecker,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Yellow-Eyed Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Adelie Penguin,"['Antarctica', 'Asia', 'Eurasia', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+African Grey Parrot,['Africa'],Animalia,Chordata,Aves,Herbivore
+African Penguin,"['Africa', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Amazon Parrot,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Herbivore
+Bird Of Paradise,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Black-Capped Chickadee,['North-America'],Animalia,Chordata,Aves,Omnivore
+Blackpoll Warbler,"['Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Carolina Parakeet,['North-America'],Animalia,Chordata,Aves,Omnivore
+Chinstrap Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Chipping Sparrow,['North-America'],Animalia,Chordata,Aves,Omnivore
+Cooper’s Hawk,"['Central-America', 'North-America']",Animalia,Hemichordata,Aves,Carnivore
+Crested Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Eastern Phoebe,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Eclectus Parrot,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Egyptian Goose,['Africa'],Animalia,Chordata,Aves,Omnivore
+Emperor Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+European Bee-Eater,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+European Robin,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Galapagos Penguin,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Gentoo Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Harpy Eagle,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Hoopoe,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+House Sparrow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Humboldt Penguin,"['Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Ivory-billed woodpecker,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Kakapo,['Oceania'],Animalia,Chordata,Aves,Herbivore
+King Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Lappet-faced Vulture,"['Africa', 'Asia']",Animalia,Chordata,Aves,Carnivore
+Little Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Macaroni Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Magellanic Penguin,"['Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Magpie,"['Africa', 'Asia', 'Eurasia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Mississippi Kite,['North-America'],Animalia,Chordata,Aves,Carnivore
+Nicobar pigeon,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Parakeet,"['Africa', 'Asia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Parrot,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Parrotlet,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Peacock,"['Africa', 'Asia']",Animalia,Chordata,Aves,Omnivore
+Pelican,['Least Concern'],Animalia,Chordata,Aves,Omnivore
+Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Omnivore
+Peregrine Falcon,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Pesquet’s Parrot (Dracula Parrot),['Oceania'],Animalia,Chordata,Aves,Herbivore
+Pheasant,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Pigeon,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Pileated Woodpecker,['North-America'],Animalia,Chordata,Aves,Omnivore
+Potoo,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Puffin,"['Eurasia', 'Europe', 'North-America', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Purple Finch,['North-America'],Animalia,Chordata,Aves,Omnivore
+Rockhopper Penguin,"['Antarctica', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Roseate Spoonbill,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Royal Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Savannah Sparrow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Senegal Parrot,['Africa'],Animalia,Chordata,Aves,Herbivore
+Song Sparrow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Sparrow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Sparrowhawk,"['Africa', 'Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Spixs Macaw,['Extinct in the Wild'],Animalia,Chordata,Aves,Omnivore
+Treecreeper,"['Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Tropicbird,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Whooping Crane,['North-America'],Animalia,Chordata,Aves,Omnivore
+Woodpecker,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Yellow-Eyed Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Pesquet’s Parrot (Dracula Parrot),['Oceania'],Animalia,Chordata,Aves,Herbivore
+Quail,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Quetzal,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Red-Billed Quelea Bird,['Africa'],Animalia,Chordata,Aves,Omnivore
+African Grey Parrot,['Africa'],Animalia,Chordata,Aves,Herbivore
+African Penguin,"['Africa', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Albatross,"['Africa', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Amazon Parrot,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Herbivore
+American Robin,"['Central-America', 'Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Barn Owl,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Barn Swallow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Barred Owl,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Bearded Vulture,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Bird,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Bird Of Paradise,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Blackpoll Warbler,"['Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Blue grosbeak,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Budgerigar,['Oceania'],Animalia,Chordata,Aves,Omnivore
+Burrowing Owl,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Carolina Parakeet,['North-America'],Animalia,Chordata,Aves,Omnivore
+Cassowary,['Oceania'],Animalia,Chordata,Aves,Omnivore
+Chinstrap Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Chipping Sparrow,['North-America'],Animalia,Chordata,Aves,Omnivore
+Cinereous Vulture,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Common Buzzard,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Common Raven,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Cooper’s Hawk,"['Central-America', 'North-America']",Animalia,Hemichordata,Aves,Carnivore
+Crane,"['Africa', 'Asia', 'Eurasia', 'Europe', 'North-America', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Crested Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Crow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Eastern Bluebird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Eastern Phoebe,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Eclectus Parrot,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Elegant Tern,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Emperor Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Eurasian Jay,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Eurasian Nuthatch,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+European Bee-Eater,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+European Robin,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Ferruginous Hawk,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Frigatebird,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Golden Oriole,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Great Blue Heron,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Great Crested Flycatcher,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Great Egret,"['Africa', 'Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Green Bee-Eater,"['Africa', 'Asia', 'Eurasia']",Animalia,Chordata,Aves,Omnivore
+Griffon Vulture,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Grouse,['Europe'],Animalia,Chordata,Aves,Omnivore
+Harpy Eagle,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Harris Hawk,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Hawaiian Crow,['Extinct in the Wild'],Animalia,Chordata,Aves,Omnivore
+Heron,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Honey Buzzard,"['Asia', 'Eurasia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Hornbill,"['Africa', 'Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+House Sparrow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+House wren,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Hummingbird,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Ivory-billed woodpecker,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Kestrel,"['Africa', 'Asia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+King Vulture,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Kingfisher,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Kookaburra,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Kori Bustard,['Africa'],Animalia,Chordata,Aves,Omnivore
+Lappet-faced Vulture,"['Africa', 'Asia']",Animalia,Chordata,Aves,Carnivore
+Long-Eared Owl,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Lorikeet,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Lyrebird,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Macaroni Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Mallard,"['Africa', 'Asia', 'Central-America', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Marabou Stork,['Africa'],Animalia,Chordata,Aves,Omnivore
+Mexican Eagle (Northern crested caracara),"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Moorhen,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Mountain Bluebird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Mourning Dove,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Myna Bird,"['Africa', 'Asia', 'North-America', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Nicobar pigeon,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Northern Cardinal,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Orange-Crowned Warbler,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Ortolan Bunting,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Ostrich,['Africa'],Animalia,Chordata,Aves,Omnivore
+Parakeet,"['Africa', 'Asia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Parrot,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Parrotlet,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Peregrine Falcon,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Pesquet’s Parrot (Dracula Parrot),['Oceania'],Animalia,Chordata,Aves,Herbivore
+Pileated Woodpecker,['North-America'],Animalia,Chordata,Aves,Omnivore
+Purple Finch,['North-America'],Animalia,Chordata,Aves,Omnivore
+Red Finch,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Red-Billed Quelea Bird,['Africa'],Animalia,Chordata,Aves,Omnivore
+Red-Headed Vulture,['Asia'],Animalia,Chordata,Aves,Carnivore
+Red-winged blackbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Ringed Kingfisher,['North-America'],Animalia,Chordata,Aves,Carnivore
+Robin,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Rockhopper Penguin,"['Antarctica', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Rooster,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Rose-breasted Grosbeak,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Roseate Spoonbill,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Royal Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Ruby-Throated Hummingbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Ruddy Turnstone,"['Africa', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Savannah Sparrow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Scarlet Macaw,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Senegal Parrot,['Africa'],Animalia,Chordata,Aves,Herbivore
+Shoebill Stork,['Africa'],Animalia,Chordata,Aves,Carnivore
+Song Sparrow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Song Thrush,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Sparrow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Sparrowhawk,"['Africa', 'Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Stork,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Thrush,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Tree swallow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Treecreeper,"['Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Tropicbird,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Turkey,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Umbrellabird,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Ural owl,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Vulture,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Wandering Albatross,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Weaver Bird,"['Africa', 'Asia']",Animalia,Chordata,Aves,Omnivore
+Whooping Crane,['North-America'],Animalia,Chordata,Aves,Omnivore
+Willow Warbler,"['Africa', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Woodpecker,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Zebra Finch,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Albatross,"['Africa', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Barn Swallow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Bird Of Paradise,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Blue grosbeak,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Cassowary,['Oceania'],Animalia,Chordata,Aves,Omnivore
+Chinese Geese,"['Asia', 'Eurasia']",Animalia,Chordata,Aves,Herbivore
+Chinstrap Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Chipping Sparrow,['North-America'],Animalia,Chordata,Aves,Omnivore
+Cinereous Vulture,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Cooper’s Hawk,"['Central-America', 'North-America']",Animalia,Hemichordata,Aves,Carnivore
+Crested Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Eastern Bluebird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Eastern Phoebe,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Eclectus Parrot,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Egyptian Goose,['Africa'],Animalia,Chordata,Aves,Omnivore
+Eurasian Jay,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Eurasian Nuthatch,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Ferruginous Hawk,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Galapagos Penguin,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Golden Masked Owl,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Goose,"['Asia', 'Eurasia', 'Europe', 'North-America', 'Ocean']",Animalia,Chordata,Aves,Omnivore
+Goshawk,"['Africa', 'Central-America', 'Eurasia', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Great Crested Flycatcher,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Grouse,['Europe'],Animalia,Chordata,Aves,Omnivore
+Harris Hawk,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Hawaiian Goose,['North-America'],Animalia,Chordata,Aves,Herbivore
+House Finch,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+House Sparrow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+House wren,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Ibis,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Kestrel,"['Africa', 'Asia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Kingfisher,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Kori Bustard,['Africa'],Animalia,Chordata,Aves,Omnivore
+Marabou Stork,['Africa'],Animalia,Chordata,Aves,Omnivore
+Mexican Eagle (Northern crested caracara),"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Mississippi Kite,['North-America'],Animalia,Chordata,Aves,Carnivore
+Ostrich,['Africa'],Animalia,Chordata,Aves,Omnivore
+Pesquet’s Parrot (Dracula Parrot),['Oceania'],Animalia,Chordata,Aves,Herbivore
+Pheasant,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Ringed Kingfisher,['North-America'],Animalia,Chordata,Aves,Carnivore
+Rooster,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Rose-breasted Grosbeak,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Roseate Spoonbill,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Ruddy Turnstone,"['Africa', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Savannah Sparrow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Scarlet Macaw,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Sea Eagle,"['Africa', 'Antarctica', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Seagull,"['Africa', 'Antarctica', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Senegal Parrot,['Africa'],Animalia,Chordata,Aves,Herbivore
+Shoebill Stork,['Africa'],Animalia,Chordata,Aves,Carnivore
+Silkie Chicken,['Asia'],Animalia,Chordata,Aves,Omnivore
+Snowy Owl,"['Eurasia', 'Europe', 'North-America', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Song Sparrow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Song Thrush,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Sparrow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Sparrowhawk,"['Africa', 'Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Spixs Macaw,['Extinct in the Wild'],Animalia,Chordata,Aves,Omnivore
+Stork,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Swan,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Thrush,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Tree swallow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Uguisu,['Asia'],Animalia,Chordata,Aves,Omnivore
+Wandering Albatross,['Ocean'],Animalia,Chordata,Aves,Carnivore
+African Grey Parrot,['Africa'],Animalia,Chordata,Aves,Herbivore
+Albatross,"['Africa', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Amazon Parrot,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Herbivore
+Avocet,"['Asia', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Bearded Vulture,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Blue Tit,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Carolina Parakeet,['North-America'],Animalia,Chordata,Aves,Omnivore
+Chinstrap Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Cinereous Vulture,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Cockatiel,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Cockatoo,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Crested Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Eastern Bluebird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Eastern Phoebe,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Eclectus Parrot,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Egyptian Goose,['Africa'],Animalia,Chordata,Aves,Omnivore
+Elegant Tern,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Eurasian Nuthatch,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+European Bee-Eater,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Frigatebird,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Gentoo Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Great Blue Heron,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Great Crested Flycatcher,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Great Egret,"['Africa', 'Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Green Bee-Eater,"['Africa', 'Asia', 'Eurasia']",Animalia,Chordata,Aves,Omnivore
+Griffon Vulture,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Humboldt Penguin,"['Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Keel-Billed Toucan,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Kestrel,"['Africa', 'Asia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+King Vulture,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Kori Bustard,['Africa'],Animalia,Chordata,Aves,Omnivore
+Lappet-faced Vulture,"['Africa', 'Asia']",Animalia,Chordata,Aves,Carnivore
+Little Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Long-Tailed Tit,"['Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Lorikeet,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Marabou Stork,['Africa'],Animalia,Chordata,Aves,Omnivore
+Mexican Eagle (Northern crested caracara),"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Mississippi Kite,['North-America'],Animalia,Chordata,Aves,Carnivore
+Mountain Bluebird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Nightingale,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Northern Cardinal,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Ortolan Bunting,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Ostrich,['Africa'],Animalia,Chordata,Aves,Omnivore
+Parakeet,"['Africa', 'Asia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Parrot,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Parrotlet,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Pesquet’s Parrot (Dracula Parrot),['Oceania'],Animalia,Chordata,Aves,Herbivore
+Pheasant,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Pileated Woodpecker,['North-America'],Animalia,Chordata,Aves,Omnivore
+Potoo,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Quetzal,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Red-Headed Vulture,['Asia'],Animalia,Chordata,Aves,Carnivore
+Rooster,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Rose-breasted Grosbeak,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Roseate Spoonbill,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Ruby-Throated Hummingbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Ruddy Turnstone,"['Africa', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Scarlet Macaw,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Senegal Parrot,['Africa'],Animalia,Chordata,Aves,Herbivore
+Shoebill Stork,['Africa'],Animalia,Chordata,Aves,Carnivore
+Song Thrush,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Stork,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Tawny Owl,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Thrush,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Toucan,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Tree swallow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Treecreeper,"['Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Tropicbird,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Turkey,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Vulture,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Wandering Albatross,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Whinchat,"['Africa', 'Europe']",Animalia,Chordata,Aves,Omnivore
+White-Tailed Eagle,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Adelie Penguin,"['Antarctica', 'Asia', 'Eurasia', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+African Penguin,"['Africa', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Bearded Vulture,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Blue grosbeak,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Blue Jay,['North-America'],Animalia,Chordata,Aves,Omnivore
+Blue Tit,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Budgerigar,['Oceania'],Animalia,Chordata,Aves,Omnivore
+Burrowing Owl,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Chinstrap Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Cinereous Vulture,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Common Buzzard,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Crested Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Cuckoo,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Duck,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Dunnock,"['Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Omnivore
+Eastern Bluebird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Eclectus Parrot,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Emperor Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Emu,['Oceania'],Animalia,Chordata,Aves,Omnivore
+Eurasian Jay,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Eurasian Nuthatch,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+European Bee-Eater,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+European Robin,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Ferruginous Hawk,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Galapagos Penguin,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Gentoo Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Gouldian Finch,['Oceania'],Animalia,Chordata,Aves,Herbivore
+Great Blue Heron,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Griffon Vulture,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Grouse,['Europe'],Animalia,Chordata,Aves,Omnivore
+Guinea Fowl,['Africa'],Animalia,Chordata,Aves,Omnivore
+Honey Buzzard,"['Asia', 'Eurasia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+House Finch,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+House Sparrow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+House wren,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Humboldt Penguin,"['Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Hummingbird,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Junglefowl,['Asia'],Animalia,Chordata,Aves,Omnivore
+Keel-Billed Toucan,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+King Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+King Vulture,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Kookaburra,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Kori Bustard,['Africa'],Animalia,Chordata,Aves,Omnivore
+Lappet-faced Vulture,"['Africa', 'Asia']",Animalia,Chordata,Aves,Carnivore
+Little Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Macaroni Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Magellanic Penguin,"['Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Marabou Stork,['Africa'],Animalia,Chordata,Aves,Omnivore
+Mountain Bluebird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Mourning Dove,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Ortolan Bunting,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Omnivore
+Pesquet’s Parrot (Dracula Parrot),['Oceania'],Animalia,Chordata,Aves,Herbivore
+Puffin,"['Eurasia', 'Europe', 'North-America', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Purple Finch,['North-America'],Animalia,Chordata,Aves,Omnivore
+Quail,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Quetzal,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Red-Billed Quelea Bird,['Africa'],Animalia,Chordata,Aves,Omnivore
+Red-Headed Vulture,['Asia'],Animalia,Chordata,Aves,Carnivore
+Rockhopper Penguin,"['Antarctica', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Royal Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Ruby-Throated Hummingbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Ruddy Turnstone,"['Africa', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Seagull,"['Africa', 'Antarctica', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Ocean', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Song Thrush,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Thrush,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Toucan,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Turkey,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Uguisu,['Asia'],Animalia,Chordata,Aves,Omnivore
+Umbrellabird,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Ural owl,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Vulture,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Yellow-Eyed Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Avocet,"['Asia', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Bearded Vulture,"['Africa', 'Asia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Cinereous Vulture,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Common Raven,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Griffon Vulture,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Ivory-billed woodpecker,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+King Vulture,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Lappet-faced Vulture,"['Africa', 'Asia']",Animalia,Chordata,Aves,Carnivore
+Mourning Dove,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Red-Headed Vulture,['Asia'],Animalia,Chordata,Aves,Carnivore
+Savannah Sparrow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Vulture,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Weaver Bird,"['Africa', 'Asia']",Animalia,Chordata,Aves,Omnivore
+Barn Owl,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Barn Swallow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Barred Owl,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Blackpoll Warbler,"['Europe', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Burrowing Owl,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Cassowary,['Oceania'],Animalia,Chordata,Aves,Omnivore
+Chipping Sparrow,['North-America'],Animalia,Chordata,Aves,Omnivore
+Cooper’s Hawk,"['Central-America', 'North-America']",Animalia,Hemichordata,Aves,Carnivore
+Crow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Ferruginous Hawk,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Golden Masked Owl,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Goshawk,"['Africa', 'Central-America', 'Eurasia', 'North-America', 'Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Guinea Fowl,['Africa'],Animalia,Chordata,Aves,Omnivore
+Harris Hawk,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Hawaiian Crow,['Extinct in the Wild'],Animalia,Chordata,Aves,Omnivore
+Hawaiian Goose,['North-America'],Animalia,Chordata,Aves,Herbivore
+House Sparrow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+House wren,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Ivory-billed woodpecker,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Jackdaw,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Junglefowl,['Asia'],Animalia,Chordata,Aves,Omnivore
+Kiwi,['Oceania'],Animalia,Chordata,Aves,Omnivore
+Long-Eared Owl,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Macaw,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Orange-Crowned Warbler,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Owl,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Pileated Woodpecker,['North-America'],Animalia,Chordata,Aves,Omnivore
+Red-winged blackbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Savannah Sparrow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Scarlet Macaw,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Snowy Owl,"['Eurasia', 'Europe', 'North-America', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Song Sparrow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Sparrow,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Sparrowhawk,"['Africa', 'Asia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Spixs Macaw,['Extinct in the Wild'],Animalia,Chordata,Aves,Omnivore
+Swan,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'Oceania', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Tawny Owl,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Tree swallow,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Ural owl,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Wandering Albatross,['Ocean'],Animalia,Chordata,Aves,Carnivore
+Weaver Bird,"['Africa', 'Asia']",Animalia,Chordata,Aves,Omnivore
+Whinchat,"['Africa', 'Europe']",Animalia,Chordata,Aves,Omnivore
+White-Tailed Eagle,"['Asia', 'Eurasia', 'Europe', 'North-America']",Animalia,Chordata,Aves,Carnivore
+Whooping Crane,['North-America'],Animalia,Chordata,Aves,Omnivore
+Willow Warbler,"['Africa', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Woodpecker,"['Africa', 'Asia', 'Central-America', 'Eurasia', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Yellow-Eyed Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Mexican Eagle (Northern crested caracara),"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Spixs Macaw,['Extinct in the Wild'],Animalia,Chordata,Aves,Omnivore
+African Grey Parrot,['Africa'],Animalia,Chordata,Aves,Herbivore
+Baya,['Asia'],Animalia,Chordata,Aves,Omnivore
+Blue Jay,['North-America'],Animalia,Chordata,Aves,Omnivore
+Booby,"['Central-America', 'Ocean', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Cassowary,['Oceania'],Animalia,Chordata,Aves,Omnivore
+Egyptian Goose,['Africa'],Animalia,Chordata,Aves,Omnivore
+Eurasian Jay,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Great Crested Flycatcher,"['Central-America', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Harpy Eagle,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Carnivore
+Honey Buzzard,"['Asia', 'Eurasia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Ivory-billed woodpecker,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Lyrebird,['Oceania'],Animalia,Chordata,Aves,Carnivore
+Myna Bird,"['Africa', 'Asia', 'North-America', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Royal Penguin,"['Antarctica', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Ruby-Throated Hummingbird,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Herbivore
+Ruddy Turnstone,"['Africa', 'Europe', 'North-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Snowy Owl,"['Eurasia', 'Europe', 'North-America', 'Ocean']",Animalia,Chordata,Aves,Carnivore
+Tawny Owl,"['Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Omnivore
+Turkey,"['Central-America', 'North-America']",Animalia,Chordata,Aves,Omnivore
+Yellow-Eyed Penguin,"['Ocean', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Amazon Parrot,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Herbivore
+Common Buzzard,"['Africa', 'Asia', 'Eurasia', 'Europe']",Animalia,Chordata,Aves,Carnivore
+Honey Buzzard,"['Asia', 'Eurasia', 'Europe', 'Oceania']",Animalia,Chordata,Aves,Carnivore
+Quetzal,"['Central-America', 'South-America']",Animalia,Chordata,Aves,Omnivore
+Zebra Finch,"['Asia', 'Oceania']",Animalia,Chordata,Aves,Omnivore
